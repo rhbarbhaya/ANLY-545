@@ -1,0 +1,94 @@
+---
+title: "Assignment 2"
+author: "Rushabh Barbhaya"
+date: "November 15, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r include=FALSE}
+data <- read.csv('data.csv', header = T, sep = ",", row.names = NULL)
+library(knitr)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(magrittr)
+library(kableExtra)
+```
+
+
+# Analysis
+
+In the 2^nd^ and 3^rd^ tables:
+
+  1.  The restaurants were displayed in the **order** they were because *they were arranged in decending order of overall stars.*
+  2.  The **overall** column represents *average of stars.* 
+  3.  The overall column was added to the table in the **position** it was because *it was merged with other table in that order.*
+  4.  The sex/race columns were **grouped** together because *the are of the same category.* 
+
+# Tables and Figures
+
+Find the total number of cases: `r nrow(data)`
+
+For each restaurant, find the total number of customers.
+
+```{r, echo=FALSE}
+df = data.frame(table(data$restaurant))
+df = df[order(-df$Freq),]
+df2 = as.numeric(format(round((df$Freq*100/nrow(data)),2), nsmall = 2))
+df2 = cbind(df, df2)
+#df2
+df2 = rename(df2, c("Restaurant"="Var1", "Count"="Freq", "Percentage"="df2"))
+row.names(df2) = NULL
+kbl(df2, caption = "Restaurant customers") %>% 
+  kable_styling()
+  
+# knitr::kable(df2, row.names = FALSE, caption = "Restaurant customers")
+```
+
+For each restaurent with **Sex.**
+
+```{r complex, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+df3 = data %>%
+  group_by(restaurant, sex) %>% 
+  summarise(rating = as.numeric(format(round(mean(stars),2), nsmall = 2))) 
+df3 = pivot_wider(df3, names_from = sex, values_from = rating)
+# df3
+df4 = data %>%
+  group_by(restaurant) %>% 
+  summarise(rating = as.numeric(format(round(mean(stars),2), nsmall = 2))) 
+# df4
+df5 = merge(df4, df3, by = "restaurant", all.x = T)
+df5 = df5[order(-df5$rating),]
+row.names(df5) = NULL
+
+# df5
+kbl(df5, caption = "Average Customer Rating by **Sex**", col.names = c("Restaurant", "Overall", "Female", "Male")) %>% 
+  kable_styling() %>% 
+  add_header_above(c(" "=2,"Sex"=2))
+```
+ 
+For each restaurant, find the average star rating by **Race.**
+
+```{r complex2, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+df6 = data %>%
+  group_by(restaurant, race) %>% 
+  summarise(rating = as.numeric(format(round(mean(stars),2), nsmall = 2))) 
+df6 = pivot_wider(df6, names_from = race, values_from = rating)
+# df6
+df7 = data %>%
+  group_by(restaurant) %>% 
+  summarise(rating = as.numeric(format(round(mean(stars),2), nsmall = 2))) 
+# df7
+df8 = merge(df7, df6, by = "restaurant", all.x = T)
+df8 = df8[order(-df8$rating),]
+row.names(df8) = NULL
+# df8
+kbl(df8, caption = "Average Customer Rating by **Race**", col.names = c("Restaurant", "Overall", "Black", "Hispanic", "Other", "White")) %>%
+  kable_styling() %>%
+  add_header_above(c(" "=2,"Race"=4))
+```
