@@ -1,0 +1,1990 @@
+sex,stars,age,restaurant,id,race
+Female,2,35,Taco Bell,1,Other
+Female,4,31,McDonald,2,Other
+Male,5,29,McDonald,3,Hispanic
+Female,1,21,Burger King,4,Hispanic
+Male,1,35,Burger King,5,Hispanic
+Female,2,28,Taco Bell,6,White
+Female,3,34,McDonald,7,Hispanic
+Male,3,31,McDonald,8,Black
+Female,5,36,McDonald,9,Other
+Male,1,34,McDonald,10,Black
+Male,5,28,Burger King,11,Other
+Female,1,20,KFC,12,Other
+Male,4,38,KFC,13,Black
+Male,4,34,KFC,14,Other
+Female,5,32,McDonald,15,Black
+Female,5,36,Taco Bell,16,Black
+Female,1,32,Taco Bell,17,Other
+Male,1,32,KFC,18,Hispanic
+Male,5,29,Burger King,19,Black
+Female,5,33,KFC,20,Black
+Male,2,26,Taco Bell,21,Other
+Female,3,21,Burger King,22,White
+Male,2,27,KFC,23,Other
+Female,5,39,Burger King,24,White
+Male,2,18,Burger King,25,White
+Female,2,29,McDonald,26,Black
+Female,4,34,KFC,27,Hispanic
+Female,1,28,McDonald,28,Black
+Male,2,25,KFC,29,Black
+Male,5,21,KFC,30,Black
+Female,1,30,KFC,31,White
+Female,3,32,KFC,32,Black
+Male,5,25,KFC,33,White
+Male,1,33,KFC,34,Black
+Male,5,22,McDonald,35,Black
+Female,4,21,KFC,36,White
+Male,5,30,KFC,37,Other
+Female,1,38,McDonald,38,Hispanic
+Male,3,29,KFC,39,White
+Female,1,29,KFC,40,Hispanic
+Female,1,22,Taco Bell,41,White
+Male,1,23,McDonald,42,Black
+Female,3,32,McDonald,43,Black
+Female,3,32,Taco Bell,44,Black
+Male,5,35,Burger King,45,White
+Male,2,28,Taco Bell,46,White
+Male,2,31,Burger King,47,Hispanic
+Male,5,32,McDonald,48,Other
+Female,3,28,Burger King,49,Black
+Male,4,33,Taco Bell,50,Black
+Male,5,24,Burger King,51,Black
+Male,4,26,McDonald,52,Hispanic
+Female,2,27,Taco Bell,53,Hispanic
+Female,1,26,KFC,54,Other
+Female,5,29,KFC,55,Other
+Female,4,31,KFC,56,Other
+Male,3,30,KFC,57,Hispanic
+Male,3,29,Taco Bell,58,Black
+Male,4,39,KFC,59,Black
+Male,4,35,McDonald,60,Other
+Male,4,36,Burger King,61,Black
+Male,4,35,Burger King,62,Other
+Female,5,23,McDonald,63,Other
+Male,5,40,Burger King,64,White
+Male,3,25,Burger King,65,Hispanic
+Female,4,21,Taco Bell,66,Other
+Male,3,25,Burger King,67,Other
+Male,3,32,KFC,68,White
+Male,1,28,Burger King,69,White
+Male,3,24,Burger King,70,White
+Male,4,23,KFC,71,Black
+Female,1,25,Taco Bell,72,Black
+Male,3,21,Taco Bell,73,Hispanic
+Female,5,27,Taco Bell,74,White
+Female,1,33,KFC,75,Hispanic
+Female,5,31,Taco Bell,76,White
+Male,3,30,Taco Bell,77,Other
+Male,3,30,Taco Bell,78,Hispanic
+Male,2,24,Taco Bell,79,Hispanic
+Male,3,36,KFC,80,Hispanic
+Male,3,37,Taco Bell,81,White
+Female,3,20,McDonald,82,White
+Male,4,20,KFC,83,Black
+Female,1,33,Taco Bell,84,Hispanic
+Female,4,29,Taco Bell,85,White
+Female,1,27,Burger King,86,Other
+Male,1,36,Burger King,87,White
+Female,3,29,Taco Bell,88,Other
+Male,2,42,Burger King,89,White
+Female,2,15,Taco Bell,90,White
+Male,2,40,Taco Bell,91,White
+Male,3,29,Taco Bell,92,Black
+Male,3,31,McDonald,93,White
+Female,2,16,McDonald,94,Black
+Female,5,36,Taco Bell,95,White
+Female,1,23,Burger King,96,White
+Female,5,32,KFC,97,Hispanic
+Female,3,28,McDonald,98,Hispanic
+Female,3,30,Taco Bell,99,White
+Female,1,25,Burger King,100,Black
+Female,1,33,KFC,101,Other
+Female,1,30,Taco Bell,102,Black
+Male,5,27,Burger King,103,Other
+Female,4,32,KFC,104,Black
+Male,4,30,Burger King,105,Hispanic
+Female,1,29,KFC,106,Hispanic
+Male,4,29,Burger King,107,White
+Male,5,26,Burger King,108,Other
+Female,2,39,Burger King,109,White
+Female,2,34,McDonald,110,Black
+Male,3,23,KFC,111,Other
+Female,2,27,McDonald,112,White
+Male,2,31,Taco Bell,113,Black
+Male,5,21,McDonald,114,Other
+Female,4,33,Taco Bell,115,White
+Female,1,31,McDonald,116,Black
+Male,5,35,KFC,117,Hispanic
+Female,3,29,Taco Bell,118,Black
+Female,3,38,Taco Bell,119,Hispanic
+Female,4,33,KFC,120,Hispanic
+Male,3,31,McDonald,121,Black
+Female,4,24,Burger King,122,Hispanic
+Female,2,31,McDonald,123,Black
+Male,4,35,KFC,124,Other
+Male,1,22,McDonald,125,Hispanic
+Female,2,16,Taco Bell,126,Other
+Male,1,30,Taco Bell,127,White
+Female,3,23,Taco Bell,128,Hispanic
+Male,1,28,McDonald,129,Hispanic
+Female,1,32,McDonald,130,Other
+Female,3,39,KFC,131,Other
+Male,4,29,Burger King,132,Black
+Female,1,36,Taco Bell,133,Other
+Male,1,22,Taco Bell,134,Other
+Male,2,28,Taco Bell,135,Hispanic
+Female,4,35,KFC,136,White
+Female,4,34,Burger King,137,Other
+Male,3,40,Burger King,138,Hispanic
+Female,5,40,McDonald,139,Hispanic
+Male,2,33,KFC,140,Hispanic
+Female,4,22,Taco Bell,141,Black
+Female,4,36,McDonald,142,Hispanic
+Male,3,30,McDonald,143,Other
+Male,4,29,McDonald,144,Hispanic
+Male,1,29,Burger King,145,White
+Male,2,39,Burger King,146,Hispanic
+Female,5,30,McDonald,147,Other
+Female,2,27,Taco Bell,148,White
+Male,4,24,KFC,149,White
+Female,1,33,Burger King,150,Black
+Female,2,29,Burger King,151,Black
+Female,3,23,KFC,152,Hispanic
+Female,1,27,Burger King,153,Other
+Male,5,33,McDonald,154,White
+Female,3,30,McDonald,155,Black
+Female,4,29,McDonald,156,Hispanic
+Female,3,25,KFC,157,White
+Female,2,29,Burger King,158,Hispanic
+Male,3,24,Burger King,159,White
+Male,1,38,Burger King,160,Other
+Female,2,36,Taco Bell,161,White
+Male,4,27,McDonald,162,Black
+Male,4,32,Burger King,163,Black
+Female,2,43,Burger King,164,Black
+Female,5,27,Taco Bell,165,Hispanic
+Male,3,31,Taco Bell,166,White
+Male,5,34,Burger King,167,Black
+Male,5,34,McDonald,168,Hispanic
+Male,3,29,KFC,169,Other
+Male,1,27,Taco Bell,170,Hispanic
+Male,5,30,McDonald,171,Black
+Female,4,31,KFC,172,Black
+Male,1,25,McDonald,173,White
+Male,5,18,Taco Bell,174,White
+Male,3,35,Burger King,175,Hispanic
+Male,3,33,Burger King,176,Hispanic
+Female,4,28,Taco Bell,177,Black
+Female,5,33,KFC,178,Black
+Female,4,32,KFC,179,Other
+Female,3,32,Burger King,180,White
+Male,3,31,KFC,181,White
+Male,5,24,Burger King,182,Black
+Female,3,33,KFC,183,White
+Female,3,26,McDonald,184,White
+Male,3,28,Burger King,185,White
+Female,1,29,Burger King,186,Hispanic
+Female,2,26,McDonald,187,Hispanic
+Female,4,25,Taco Bell,188,Other
+Female,4,26,KFC,189,Black
+Female,2,30,McDonald,190,White
+Male,2,24,Taco Bell,191,White
+Male,3,34,Taco Bell,192,Hispanic
+Male,2,34,McDonald,193,Hispanic
+Female,5,37,KFC,194,Other
+Female,5,36,Burger King,195,Black
+Female,3,28,KFC,196,Hispanic
+Female,5,35,Taco Bell,197,Other
+Female,2,33,Taco Bell,198,White
+Male,4,40,Taco Bell,199,Hispanic
+Male,5,25,McDonald,200,White
+Female,4,26,Burger King,201,Other
+Female,5,31,KFC,202,Other
+Female,2,28,McDonald,203,Black
+Male,5,26,Burger King,204,Other
+Female,1,29,Taco Bell,205,Hispanic
+Male,3,30,Taco Bell,206,Black
+Female,2,31,Taco Bell,207,Hispanic
+Male,4,36,Taco Bell,208,White
+Male,5,34,Taco Bell,209,Other
+Male,5,35,Taco Bell,210,Black
+Male,1,35,KFC,211,Hispanic
+Female,3,26,McDonald,212,Other
+Male,5,31,Burger King,213,Black
+Female,1,26,KFC,214,Other
+Female,2,24,McDonald,215,Hispanic
+Female,4,28,Burger King,216,Other
+Female,5,26,Burger King,217,Hispanic
+Male,2,37,McDonald,218,Black
+Female,2,29,Taco Bell,219,Black
+Male,3,28,McDonald,220,White
+Female,2,32,Burger King,221,Hispanic
+Female,4,34,KFC,222,Hispanic
+Male,5,30,Burger King,223,Other
+Male,4,31,McDonald,224,Other
+Male,2,28,McDonald,225,Black
+Female,3,26,Burger King,226,Other
+Female,1,30,KFC,227,Hispanic
+Male,5,31,Burger King,228,Other
+Female,4,28,Burger King,229,White
+Female,5,31,Taco Bell,230,White
+Male,1,35,McDonald,231,Black
+Female,5,39,McDonald,232,Other
+Female,3,36,McDonald,233,Other
+Male,5,30,Burger King,234,Black
+Male,1,30,KFC,235,Hispanic
+Male,3,35,McDonald,236,Hispanic
+Male,5,27,Taco Bell,237,Hispanic
+Male,5,35,McDonald,238,Hispanic
+Male,3,36,Taco Bell,239,Hispanic
+Female,1,32,McDonald,240,Hispanic
+Male,3,43,Burger King,241,Hispanic
+Female,3,34,Burger King,242,White
+Male,5,26,Taco Bell,243,White
+Male,2,28,Burger King,244,Hispanic
+Male,1,38,McDonald,245,Other
+Male,1,26,Burger King,246,Hispanic
+Male,3,31,Taco Bell,247,White
+Male,3,27,McDonald,248,Hispanic
+Male,4,27,McDonald,249,White
+Male,4,31,Burger King,250,White
+Female,5,32,Burger King,251,Black
+Male,4,35,McDonald,252,Black
+Male,2,35,Burger King,253,Hispanic
+Male,3,28,Burger King,254,White
+Female,3,30,Taco Bell,255,White
+Female,4,33,KFC,256,White
+Male,4,27,Taco Bell,257,Black
+Female,5,23,Taco Bell,258,White
+Male,4,41,McDonald,259,Black
+Male,5,33,Burger King,260,Hispanic
+Female,2,32,KFC,261,Hispanic
+Female,4,28,McDonald,262,White
+Male,5,41,KFC,263,Hispanic
+Female,5,26,KFC,264,Black
+Female,1,36,McDonald,265,White
+Male,4,27,McDonald,266,Other
+Male,4,29,Taco Bell,267,Other
+Female,2,36,KFC,268,White
+Male,1,29,Burger King,269,White
+Female,4,34,Burger King,270,White
+Female,2,28,Taco Bell,271,Hispanic
+Female,1,34,McDonald,272,White
+Female,2,32,McDonald,273,Black
+Female,2,26,McDonald,274,Other
+Female,5,35,Taco Bell,275,Black
+Male,2,16,McDonald,276,Other
+Male,1,21,McDonald,277,Black
+Male,1,29,Taco Bell,278,Hispanic
+Male,3,37,McDonald,279,Black
+Male,3,31,Taco Bell,280,Black
+Male,4,23,KFC,281,Other
+Male,4,30,Burger King,282,Hispanic
+Male,2,21,KFC,283,Hispanic
+Male,4,31,McDonald,284,Other
+Male,1,38,KFC,285,Hispanic
+Male,4,32,KFC,286,Hispanic
+Female,2,29,Taco Bell,287,Hispanic
+Male,5,29,KFC,288,Hispanic
+Male,3,27,Taco Bell,289,Black
+Female,4,29,Taco Bell,290,Other
+Female,3,33,KFC,291,Black
+Female,4,33,KFC,292,Other
+Female,5,31,Taco Bell,293,Other
+Male,5,24,KFC,294,Black
+Female,4,26,McDonald,295,White
+Male,1,33,McDonald,296,Other
+Female,4,25,Burger King,297,Black
+Male,2,37,McDonald,298,Black
+Female,1,33,Taco Bell,299,White
+Male,3,30,KFC,300,Other
+Male,4,30,KFC,301,White
+Female,2,32,KFC,302,White
+Female,1,23,Burger King,303,White
+Male,1,38,KFC,304,Other
+Female,1,34,Taco Bell,305,Other
+Female,1,30,KFC,306,White
+Female,4,26,Burger King,307,Black
+Female,1,30,Burger King,308,White
+Male,2,32,Burger King,309,Black
+Male,2,29,McDonald,310,Hispanic
+Female,4,36,McDonald,311,Other
+Female,4,31,KFC,312,Hispanic
+Male,1,34,Taco Bell,313,White
+Male,3,22,McDonald,314,Hispanic
+Male,3,34,McDonald,315,White
+Male,4,25,Burger King,316,Other
+Female,5,29,Burger King,317,Black
+Male,2,26,McDonald,318,Black
+Male,4,38,Taco Bell,319,Hispanic
+Male,1,37,Burger King,320,Hispanic
+Male,4,25,McDonald,321,White
+Female,5,28,McDonald,322,Other
+Male,2,28,Taco Bell,323,Other
+Female,2,32,KFC,324,Hispanic
+Male,4,21,KFC,325,White
+Female,4,32,KFC,326,Black
+Male,3,23,Burger King,327,Hispanic
+Female,5,36,Taco Bell,328,White
+Female,3,26,KFC,329,Black
+Female,5,28,McDonald,330,Other
+Female,2,31,McDonald,331,White
+Female,3,33,KFC,332,Other
+Female,1,26,Taco Bell,333,Black
+Female,1,29,Taco Bell,334,Other
+Male,5,23,Burger King,335,White
+Male,4,30,McDonald,336,White
+Male,2,28,Taco Bell,337,White
+Female,1,24,Taco Bell,338,Hispanic
+Male,4,27,KFC,339,Black
+Male,2,28,McDonald,340,Other
+Female,2,32,McDonald,341,Hispanic
+Male,3,35,KFC,342,Black
+Male,1,35,Burger King,343,Other
+Male,3,30,Taco Bell,344,White
+Male,5,29,KFC,345,White
+Female,3,34,Taco Bell,346,Hispanic
+Female,3,35,KFC,347,Hispanic
+Male,2,31,Taco Bell,348,White
+Male,4,27,Burger King,349,Black
+Male,4,30,Taco Bell,350,Hispanic
+Male,3,32,Taco Bell,351,Hispanic
+Female,4,25,Taco Bell,352,Other
+Female,1,31,Taco Bell,353,White
+Male,1,31,Burger King,354,Black
+Male,2,39,Taco Bell,355,White
+Male,1,23,Taco Bell,356,White
+Female,1,29,McDonald,357,White
+Female,5,34,Burger King,358,White
+Male,2,31,Burger King,359,Hispanic
+Male,4,29,Burger King,360,Other
+Male,4,33,Burger King,361,Other
+Male,1,19,Burger King,362,Other
+Female,3,30,Taco Bell,363,Hispanic
+Male,5,39,McDonald,364,Hispanic
+Female,1,24,McDonald,365,White
+Male,2,38,Taco Bell,366,Hispanic
+Female,1,28,Taco Bell,367,Black
+Male,2,24,KFC,368,White
+Male,2,31,Taco Bell,369,Other
+Female,2,35,McDonald,370,Black
+Male,2,31,KFC,371,Black
+Male,4,31,KFC,372,Black
+Female,4,25,McDonald,373,White
+Female,2,28,Burger King,374,Other
+Male,4,37,McDonald,375,Hispanic
+Female,2,39,KFC,376,Other
+Female,1,34,Taco Bell,377,White
+Male,3,23,Burger King,378,White
+Female,2,29,Taco Bell,379,Hispanic
+Male,2,36,KFC,380,White
+Female,1,31,McDonald,381,Hispanic
+Male,3,37,Taco Bell,382,White
+Male,2,36,KFC,383,Hispanic
+Male,1,26,McDonald,384,Hispanic
+Female,3,32,KFC,385,White
+Male,3,32,Taco Bell,386,Other
+Female,1,34,Burger King,387,Hispanic
+Female,5,33,KFC,388,Hispanic
+Male,1,26,Taco Bell,389,Hispanic
+Female,2,26,Taco Bell,390,White
+Male,1,27,KFC,391,Black
+Female,5,26,Taco Bell,392,Other
+Female,2,32,Burger King,393,Black
+Male,1,33,Taco Bell,394,Black
+Male,4,37,KFC,395,White
+Male,4,30,KFC,396,Black
+Female,2,25,Taco Bell,397,Black
+Female,2,29,KFC,398,White
+Female,1,33,KFC,399,Other
+Male,2,40,McDonald,400,Hispanic
+Female,1,38,KFC,401,Other
+Male,4,29,McDonald,402,Other
+Male,2,23,Burger King,403,White
+Male,5,34,Burger King,404,Black
+Female,5,38,Taco Bell,405,White
+Male,3,33,Burger King,406,White
+Male,2,39,McDonald,407,Black
+Male,3,30,Burger King,408,Hispanic
+Male,5,25,Taco Bell,409,White
+Female,3,34,Burger King,410,Black
+Male,4,28,McDonald,411,Hispanic
+Female,2,29,Burger King,412,Other
+Male,2,30,Taco Bell,413,Hispanic
+Female,4,23,Burger King,414,Hispanic
+Female,5,29,KFC,415,Black
+Female,1,29,McDonald,416,Black
+Female,1,30,KFC,417,White
+Male,1,26,KFC,418,Hispanic
+Female,5,31,Taco Bell,419,White
+Male,3,33,KFC,420,White
+Male,1,32,McDonald,421,White
+Male,4,22,Taco Bell,422,Black
+Male,4,23,McDonald,423,Black
+Female,2,25,McDonald,424,White
+Male,2,30,Taco Bell,425,Black
+Female,1,34,KFC,426,Hispanic
+Male,5,34,Burger King,427,Black
+Male,4,25,KFC,428,White
+Female,4,35,Taco Bell,429,Other
+Female,3,27,KFC,430,Other
+Male,3,29,McDonald,431,Black
+Male,2,35,KFC,432,Other
+Male,4,23,McDonald,433,Black
+Male,3,27,McDonald,434,Other
+Male,4,28,KFC,435,Other
+Female,2,30,Burger King,436,Black
+Male,5,30,Taco Bell,437,Hispanic
+Female,2,33,McDonald,438,White
+Female,5,30,McDonald,439,Other
+Male,2,29,Burger King,440,Hispanic
+Female,2,31,McDonald,441,White
+Female,1,31,McDonald,442,Hispanic
+Male,1,26,Taco Bell,443,White
+Female,2,28,McDonald,444,Black
+Male,4,34,KFC,445,White
+Male,3,25,Burger King,446,Black
+Male,2,29,KFC,447,White
+Female,5,19,Burger King,448,White
+Male,1,31,McDonald,449,Other
+Female,4,33,Taco Bell,450,Other
+Male,1,31,KFC,451,Hispanic
+Male,4,29,Taco Bell,452,Black
+Female,4,37,Burger King,453,White
+Female,5,29,KFC,454,Black
+Male,1,26,KFC,455,White
+Male,2,27,Taco Bell,456,White
+Female,3,23,Taco Bell,457,Other
+Female,3,17,Burger King,458,Black
+Male,3,35,Taco Bell,459,Other
+Male,2,31,KFC,460,Black
+Female,2,33,Taco Bell,461,Hispanic
+Female,1,22,Taco Bell,462,Hispanic
+Male,5,27,KFC,463,White
+Male,3,30,Burger King,464,White
+Female,3,30,KFC,465,Black
+Female,2,23,Taco Bell,466,White
+Female,3,30,KFC,467,Black
+Female,1,36,KFC,468,White
+Female,4,32,Burger King,469,Hispanic
+Male,2,32,Burger King,470,Hispanic
+Female,2,32,McDonald,471,White
+Female,4,30,Burger King,472,Black
+Male,3,28,McDonald,473,Black
+Male,1,22,Burger King,474,Other
+Female,3,27,McDonald,475,Other
+Female,4,40,Burger King,476,White
+Male,2,23,Taco Bell,477,Other
+Male,4,36,McDonald,478,Other
+Male,4,27,KFC,479,White
+Female,2,28,KFC,480,Black
+Male,2,26,KFC,481,Other
+Male,1,31,Burger King,482,White
+Female,5,37,McDonald,483,White
+Female,2,31,Taco Bell,484,Other
+Female,4,34,Taco Bell,485,Hispanic
+Female,4,26,Burger King,486,Other
+Female,1,19,Burger King,487,Black
+Male,2,34,Taco Bell,488,White
+Female,5,31,Burger King,489,White
+Female,3,30,Burger King,490,Black
+Male,1,31,Taco Bell,491,White
+Male,4,16,Taco Bell,492,Hispanic
+Male,4,30,Taco Bell,493,Other
+Male,2,28,KFC,494,Other
+Female,4,21,Burger King,495,Other
+Male,1,38,McDonald,496,White
+Female,1,20,KFC,497,White
+Female,1,32,Burger King,498,Hispanic
+Male,4,29,KFC,499,Hispanic
+Female,1,22,Burger King,500,Other
+Male,3,28,Taco Bell,501,Black
+Male,2,37,Taco Bell,502,Black
+Male,3,37,McDonald,503,Other
+Male,1,36,KFC,504,Other
+Male,1,36,Taco Bell,505,Black
+Male,1,19,McDonald,506,Other
+Female,3,30,Taco Bell,507,Black
+Male,2,32,Taco Bell,508,Other
+Female,4,30,Burger King,509,White
+Female,4,24,Burger King,510,Hispanic
+Female,3,32,KFC,511,Black
+Female,5,31,KFC,512,White
+Female,3,30,McDonald,513,Other
+Female,3,29,Taco Bell,514,Other
+Female,4,32,McDonald,515,Hispanic
+Female,4,28,McDonald,516,Other
+Male,3,36,McDonald,517,Hispanic
+Female,4,31,Burger King,518,Black
+Female,3,39,Taco Bell,519,Black
+Male,5,30,McDonald,520,Black
+Female,3,32,Burger King,521,Hispanic
+Male,4,30,McDonald,522,Other
+Female,4,37,KFC,523,Black
+Female,1,31,Burger King,524,Black
+Female,2,30,Burger King,525,White
+Female,5,27,McDonald,526,Black
+Male,2,27,KFC,527,Hispanic
+Male,2,27,Burger King,528,Hispanic
+Male,5,40,Burger King,529,Other
+Female,5,27,Burger King,530,Other
+Female,5,30,KFC,531,White
+Female,3,34,Burger King,532,Black
+Male,4,29,Taco Bell,533,Black
+Female,2,31,Burger King,534,Black
+Female,1,29,McDonald,535,Black
+Female,4,27,Burger King,536,White
+Female,2,30,KFC,537,Black
+Male,2,39,McDonald,538,Hispanic
+Female,5,21,Burger King,539,Hispanic
+Female,4,28,Burger King,540,Black
+Female,5,28,KFC,541,Black
+Male,4,26,Taco Bell,542,Black
+Male,2,28,McDonald,543,Black
+Male,3,39,Burger King,544,Black
+Male,5,34,Taco Bell,545,Hispanic
+Female,4,31,KFC,546,Other
+Male,1,35,Burger King,547,Black
+Male,1,30,McDonald,548,Hispanic
+Male,3,31,McDonald,549,White
+Female,3,31,McDonald,550,Other
+Female,1,23,McDonald,551,Other
+Female,1,27,Burger King,552,Black
+Female,2,27,Taco Bell,553,Hispanic
+Male,2,29,Taco Bell,554,White
+Female,5,23,Taco Bell,555,Black
+Female,5,30,KFC,556,White
+Male,3,29,Burger King,557,Black
+Female,1,30,McDonald,558,Black
+Male,5,24,Burger King,559,White
+Male,1,29,Burger King,560,Hispanic
+Female,1,29,Burger King,561,Black
+Male,1,34,McDonald,562,White
+Female,5,32,KFC,563,Other
+Male,4,23,Taco Bell,564,Hispanic
+Female,4,38,McDonald,565,Hispanic
+Female,4,34,Burger King,566,Black
+Male,3,28,KFC,567,Black
+Female,3,27,Burger King,568,White
+Female,5,32,Burger King,569,Hispanic
+Male,1,28,McDonald,570,Black
+Male,4,34,KFC,571,Hispanic
+Female,3,24,Burger King,572,Black
+Male,1,25,McDonald,573,Hispanic
+Male,2,28,McDonald,574,White
+Male,2,35,McDonald,575,Black
+Female,3,29,Burger King,576,White
+Male,5,35,Burger King,577,Hispanic
+Female,3,36,Taco Bell,578,White
+Male,3,22,McDonald,579,Hispanic
+Female,3,32,Taco Bell,580,Black
+Male,4,32,Taco Bell,581,Hispanic
+Male,5,31,KFC,582,Hispanic
+Female,5,33,McDonald,583,Hispanic
+Female,1,29,Burger King,584,Hispanic
+Female,1,28,McDonald,585,Other
+Male,5,33,KFC,586,Black
+Female,3,32,McDonald,587,White
+Female,1,26,KFC,588,White
+Female,1,28,McDonald,589,Black
+Female,5,32,Taco Bell,590,Black
+Male,2,31,Burger King,591,White
+Male,1,28,Burger King,592,White
+Female,1,28,KFC,593,Black
+Male,3,28,McDonald,594,White
+Male,2,27,KFC,595,Hispanic
+Male,4,24,McDonald,596,White
+Female,3,33,KFC,597,Other
+Female,3,37,McDonald,598,Hispanic
+Female,3,35,KFC,599,Black
+Female,3,39,Taco Bell,600,Other
+Male,1,25,Burger King,601,Other
+Female,1,29,Burger King,602,Hispanic
+Male,2,31,Burger King,603,Black
+Female,2,20,Taco Bell,604,Hispanic
+Female,1,29,Taco Bell,605,Other
+Male,5,27,KFC,606,Black
+Female,4,18,Taco Bell,607,White
+Male,2,34,McDonald,608,White
+Female,1,33,Taco Bell,609,Black
+Male,1,31,McDonald,610,Black
+Male,1,40,Taco Bell,611,Black
+Male,1,32,Burger King,612,White
+Female,5,27,Taco Bell,613,White
+Female,2,21,Burger King,614,Other
+Male,3,32,McDonald,615,Black
+Female,4,29,McDonald,616,Other
+Female,2,24,KFC,617,Hispanic
+Female,5,22,Burger King,618,White
+Female,1,32,Taco Bell,619,Hispanic
+Female,4,28,KFC,620,Black
+Male,3,23,McDonald,621,Hispanic
+Male,1,25,McDonald,622,Other
+Female,5,21,KFC,623,Hispanic
+Female,3,31,Burger King,624,Other
+Male,4,40,KFC,625,Other
+Male,2,27,KFC,626,Hispanic
+Female,2,33,Burger King,627,Hispanic
+Male,3,26,Taco Bell,628,White
+Female,3,22,McDonald,629,White
+Female,4,31,Taco Bell,630,Other
+Male,4,26,KFC,631,Other
+Female,2,31,Taco Bell,632,Black
+Male,5,34,McDonald,633,Black
+Female,3,30,KFC,634,Other
+Female,5,21,McDonald,635,Other
+Female,5,37,KFC,636,Other
+Male,4,34,KFC,637,Black
+Female,1,24,Taco Bell,638,White
+Female,3,25,McDonald,639,Hispanic
+Male,2,36,Burger King,640,White
+Male,2,20,McDonald,641,Other
+Female,2,27,Burger King,642,Black
+Female,5,35,Burger King,643,Black
+Female,4,33,McDonald,644,Black
+Female,4,34,Burger King,645,White
+Male,3,31,KFC,646,Hispanic
+Male,1,35,Burger King,647,Other
+Male,4,25,Taco Bell,648,Black
+Male,5,34,Burger King,649,Other
+Female,2,34,KFC,650,Hispanic
+Male,1,36,McDonald,651,Other
+Male,1,35,McDonald,652,Black
+Female,4,35,Taco Bell,653,Black
+Male,4,30,Burger King,654,Hispanic
+Male,4,27,Taco Bell,655,White
+Female,5,28,Burger King,656,Other
+Male,5,40,Taco Bell,657,Other
+Female,5,35,KFC,658,White
+Female,5,26,Taco Bell,659,Hispanic
+Female,2,29,Burger King,660,White
+Female,1,25,McDonald,661,Black
+Female,5,29,Burger King,662,Black
+Female,5,25,Taco Bell,663,Other
+Male,4,34,KFC,664,Other
+Male,2,29,McDonald,665,Hispanic
+Female,5,35,McDonald,666,Other
+Male,4,28,Burger King,667,White
+Male,3,29,Taco Bell,668,Other
+Male,5,17,Taco Bell,669,Black
+Male,1,26,KFC,670,White
+Female,3,30,Burger King,671,Black
+Female,2,26,Burger King,672,White
+Female,4,37,McDonald,673,White
+Male,4,26,McDonald,674,Other
+Male,5,30,Burger King,675,White
+Male,2,38,KFC,676,Black
+Male,2,37,Taco Bell,677,Black
+Male,2,32,KFC,678,White
+Male,5,25,KFC,679,White
+Male,2,29,McDonald,680,Black
+Female,2,27,Taco Bell,681,Hispanic
+Male,3,29,Taco Bell,682,White
+Female,4,31,KFC,683,White
+Male,2,34,McDonald,684,White
+Female,2,38,McDonald,685,Hispanic
+Female,2,27,KFC,686,Hispanic
+Male,5,30,Burger King,687,Hispanic
+Female,1,33,Burger King,688,White
+Male,5,30,Burger King,689,Other
+Female,2,34,KFC,690,White
+Male,4,30,Taco Bell,691,Hispanic
+Female,3,32,KFC,692,Hispanic
+Female,5,34,Taco Bell,693,Other
+Male,5,35,Taco Bell,694,Hispanic
+Male,1,36,McDonald,695,Hispanic
+Male,1,33,Taco Bell,696,Hispanic
+Male,4,29,Burger King,697,Other
+Male,1,27,Taco Bell,698,Other
+Male,5,32,McDonald,699,Other
+Male,5,32,Taco Bell,700,White
+Male,1,33,McDonald,701,Hispanic
+Male,2,23,KFC,702,Other
+Male,5,37,Taco Bell,703,Black
+Male,3,29,Taco Bell,704,Hispanic
+Female,1,31,Burger King,705,Black
+Female,5,30,KFC,706,Hispanic
+Male,4,25,Taco Bell,707,Other
+Male,2,39,Taco Bell,708,White
+Male,1,26,Burger King,709,Other
+Male,1,35,KFC,710,White
+Female,2,31,Taco Bell,711,Hispanic
+Male,5,27,KFC,712,Other
+Male,4,30,McDonald,713,White
+Female,5,25,Burger King,714,Hispanic
+Female,3,27,McDonald,715,Other
+Male,3,28,Burger King,716,Black
+Female,5,29,KFC,717,Other
+Female,3,36,Burger King,718,White
+Female,1,26,McDonald,719,Hispanic
+Female,2,32,McDonald,720,Other
+Female,5,28,KFC,721,Other
+Male,1,29,Burger King,722,White
+Female,1,25,McDonald,723,Other
+Female,5,31,McDonald,724,White
+Male,3,31,Taco Bell,725,Other
+Female,1,35,Taco Bell,726,Black
+Male,4,28,Burger King,727,Black
+Male,3,23,Burger King,728,Black
+Male,3,27,Taco Bell,729,White
+Male,2,33,Burger King,730,White
+Female,2,36,Burger King,731,Hispanic
+Male,2,28,Burger King,732,Other
+Female,2,42,KFC,733,Black
+Female,5,30,Taco Bell,734,Other
+Male,3,33,Burger King,735,Other
+Female,1,24,Burger King,736,Hispanic
+Female,5,29,Taco Bell,737,Other
+Male,1,36,KFC,738,White
+Male,4,27,Taco Bell,739,Other
+Female,3,39,Burger King,740,Hispanic
+Male,3,30,KFC,741,White
+Female,2,23,McDonald,742,Black
+Male,1,18,McDonald,743,White
+Female,5,34,McDonald,744,Other
+Male,2,28,McDonald,745,White
+Male,1,29,McDonald,746,Hispanic
+Male,5,40,KFC,747,Other
+Female,1,37,Taco Bell,748,Hispanic
+Female,5,31,Burger King,749,White
+Male,5,27,Taco Bell,750,Other
+Female,4,37,KFC,751,White
+Male,3,36,Taco Bell,752,Hispanic
+Female,4,27,Taco Bell,753,Black
+Female,4,26,Taco Bell,754,Hispanic
+Male,3,23,Taco Bell,755,Black
+Female,1,28,KFC,756,Other
+Female,3,33,Burger King,757,Black
+Female,3,27,McDonald,758,Hispanic
+Female,3,30,Burger King,759,White
+Female,2,28,Taco Bell,760,White
+Female,3,29,KFC,761,Black
+Male,1,37,Taco Bell,762,Black
+Male,1,37,Burger King,763,Black
+Male,5,37,KFC,764,Other
+Female,4,18,McDonald,765,Black
+Male,4,25,Burger King,766,Hispanic
+Female,5,29,Burger King,767,White
+Male,1,33,Burger King,768,Hispanic
+Female,4,28,McDonald,769,White
+Female,2,33,KFC,770,White
+Male,4,36,Burger King,771,Other
+Male,5,29,McDonald,772,White
+Female,4,26,McDonald,773,Black
+Male,2,40,KFC,774,Other
+Male,2,34,McDonald,775,Black
+Female,5,29,McDonald,776,Black
+Female,2,33,KFC,777,White
+Female,1,30,KFC,778,Other
+Male,5,23,Taco Bell,779,Black
+Male,3,33,Burger King,780,Black
+Male,4,23,Burger King,781,Hispanic
+Female,1,20,KFC,782,Black
+Male,3,41,Taco Bell,783,Hispanic
+Female,1,28,KFC,784,Other
+Male,5,23,Taco Bell,785,Black
+Female,5,26,McDonald,786,Hispanic
+Male,1,38,Burger King,787,Black
+Female,4,27,Taco Bell,788,Hispanic
+Male,4,28,Burger King,789,Black
+Female,5,23,Taco Bell,790,Black
+Female,3,34,KFC,791,Other
+Male,3,32,Taco Bell,792,White
+Female,4,37,Burger King,793,Hispanic
+Female,3,35,McDonald,794,Other
+Female,4,30,McDonald,795,Hispanic
+Male,2,29,Burger King,796,Other
+Female,5,38,McDonald,797,Other
+Female,4,31,McDonald,798,Other
+Female,1,31,Taco Bell,799,Hispanic
+Male,3,30,McDonald,800,White
+Male,1,28,Burger King,801,Black
+Male,1,31,Burger King,802,Other
+Female,4,31,Taco Bell,803,Other
+Female,1,35,Taco Bell,804,Black
+Female,4,21,Burger King,805,White
+Female,1,30,KFC,806,Other
+Female,1,38,KFC,807,Other
+Female,1,30,KFC,808,Hispanic
+Male,5,38,McDonald,809,Other
+Male,2,30,McDonald,810,White
+Male,2,34,KFC,811,Other
+Male,4,34,McDonald,812,Black
+Male,1,35,Burger King,813,Hispanic
+Male,4,32,Burger King,814,Hispanic
+Male,1,26,KFC,815,White
+Female,1,26,Taco Bell,816,Black
+Male,2,32,McDonald,817,Other
+Female,5,35,Taco Bell,818,Hispanic
+Male,4,25,KFC,819,White
+Female,4,33,Burger King,820,Hispanic
+Female,5,21,McDonald,821,White
+Male,3,31,KFC,822,Hispanic
+Female,4,35,McDonald,823,Black
+Female,2,32,McDonald,824,White
+Male,4,33,KFC,825,Hispanic
+Male,3,35,McDonald,826,Other
+Female,5,31,Burger King,827,White
+Male,3,28,Burger King,828,Hispanic
+Male,2,30,McDonald,829,Other
+Male,4,29,Burger King,830,Other
+Male,4,36,McDonald,831,Other
+Male,2,34,Burger King,832,Hispanic
+Female,1,24,Taco Bell,833,White
+Female,1,33,Taco Bell,834,White
+Female,5,27,Burger King,835,Black
+Female,3,27,Burger King,836,Black
+Male,2,29,KFC,837,Black
+Female,2,35,KFC,838,Hispanic
+Female,2,29,Taco Bell,839,Black
+Male,1,31,Taco Bell,840,Other
+Male,5,27,Burger King,841,Hispanic
+Male,2,33,Burger King,842,Other
+Female,3,30,Burger King,843,Hispanic
+Male,2,28,Burger King,844,White
+Male,5,22,Burger King,845,Other
+Female,5,29,McDonald,846,Black
+Male,3,27,Taco Bell,847,Black
+Male,2,33,Taco Bell,848,White
+Female,5,34,Burger King,849,Hispanic
+Male,1,34,KFC,850,Other
+Male,2,26,Taco Bell,851,Other
+Female,3,31,McDonald,852,Black
+Male,5,34,Taco Bell,853,Black
+Male,2,25,Taco Bell,854,Black
+Male,1,37,Taco Bell,855,White
+Female,5,31,KFC,856,White
+Female,4,35,Burger King,857,Hispanic
+Male,1,25,Burger King,858,Other
+Male,3,25,Taco Bell,859,Other
+Male,1,29,Burger King,860,Other
+Female,2,26,KFC,861,Hispanic
+Female,1,29,Taco Bell,862,White
+Female,1,39,KFC,863,Black
+Female,5,33,KFC,864,Hispanic
+Female,1,30,KFC,865,White
+Female,2,26,KFC,866,Black
+Male,5,27,McDonald,867,Black
+Male,3,30,Burger King,868,White
+Male,5,32,Burger King,869,Black
+Female,5,20,McDonald,870,Black
+Female,1,36,McDonald,871,White
+Male,4,26,Taco Bell,872,White
+Female,3,20,Taco Bell,873,Other
+Female,3,42,Burger King,874,Other
+Female,4,28,KFC,875,Other
+Female,2,38,McDonald,876,Black
+Male,5,21,Burger King,877,Other
+Male,4,32,Taco Bell,878,Other
+Female,1,27,Taco Bell,879,Other
+Female,1,30,KFC,880,Hispanic
+Female,1,26,McDonald,881,White
+Male,2,30,Burger King,882,Hispanic
+Female,1,26,McDonald,883,Hispanic
+Female,2,19,McDonald,884,Hispanic
+Female,1,28,Taco Bell,885,Black
+Male,3,33,KFC,886,Other
+Female,1,32,Burger King,887,Other
+Male,3,26,Taco Bell,888,Hispanic
+Male,5,30,Taco Bell,889,Other
+Male,2,30,McDonald,890,White
+Female,5,37,McDonald,891,Hispanic
+Female,3,33,McDonald,892,Black
+Female,2,31,Burger King,893,Hispanic
+Female,5,31,McDonald,894,Hispanic
+Female,4,25,McDonald,895,Other
+Male,2,24,Burger King,896,Black
+Male,4,25,KFC,897,White
+Male,5,35,KFC,898,Black
+Male,1,29,McDonald,899,Other
+Female,2,30,McDonald,900,White
+Female,5,35,Burger King,901,Black
+Male,1,28,McDonald,902,Other
+Female,3,35,McDonald,903,White
+Female,3,36,Taco Bell,904,Black
+Female,2,31,McDonald,905,Hispanic
+Male,2,27,McDonald,906,Hispanic
+Male,3,30,Taco Bell,907,Hispanic
+Female,4,28,Taco Bell,908,Black
+Male,4,27,Taco Bell,909,Hispanic
+Female,5,26,Burger King,910,Other
+Male,2,29,Taco Bell,911,Other
+Male,1,34,KFC,912,Other
+Male,2,39,Burger King,913,White
+Female,4,21,KFC,914,Hispanic
+Female,3,29,Taco Bell,915,Black
+Female,3,22,Taco Bell,916,Other
+Male,4,29,Taco Bell,917,White
+Male,2,32,Taco Bell,918,Other
+Male,2,27,KFC,919,White
+Female,3,33,Burger King,920,Hispanic
+Male,3,24,Taco Bell,921,Hispanic
+Male,2,29,KFC,922,Other
+Male,2,31,KFC,923,White
+Female,2,35,McDonald,924,White
+Female,5,33,McDonald,925,Other
+Male,4,36,Taco Bell,926,Black
+Male,5,17,Taco Bell,927,Other
+Female,2,29,Taco Bell,928,Other
+Female,5,34,Taco Bell,929,Black
+Male,1,20,McDonald,930,Black
+Male,5,28,McDonald,931,Black
+Female,2,38,KFC,932,White
+Female,2,21,KFC,933,Other
+Male,2,34,KFC,934,Black
+Male,2,32,Taco Bell,935,Black
+Male,1,21,Taco Bell,936,White
+Male,3,23,Burger King,937,Black
+Female,5,35,Burger King,938,Other
+Female,5,35,McDonald,939,Other
+Male,4,32,KFC,940,White
+Female,5,28,McDonald,941,Other
+Male,1,16,Taco Bell,942,Other
+Female,1,29,Taco Bell,943,White
+Female,3,25,Burger King,944,Black
+Male,4,31,Burger King,945,Black
+Female,4,31,Burger King,946,Hispanic
+Male,1,20,McDonald,947,Hispanic
+Female,4,27,McDonald,948,Other
+Male,5,21,KFC,949,White
+Male,3,31,McDonald,950,Black
+Female,2,32,KFC,951,Other
+Male,1,27,McDonald,952,Other
+Male,2,35,Burger King,953,Black
+Female,2,37,KFC,954,White
+Male,1,29,Burger King,955,Black
+Male,5,31,McDonald,956,White
+Male,4,27,KFC,957,Black
+Female,3,27,Taco Bell,958,Black
+Female,3,26,McDonald,959,Hispanic
+Male,2,28,KFC,960,Hispanic
+Male,4,28,McDonald,961,White
+Female,2,30,Burger King,962,Black
+Female,3,34,Burger King,963,Other
+Male,2,29,Burger King,964,White
+Male,3,32,Taco Bell,965,White
+Female,3,28,KFC,966,Hispanic
+Male,5,25,KFC,967,Other
+Female,3,29,KFC,968,White
+Female,4,31,McDonald,969,White
+Male,2,20,McDonald,970,Black
+Female,3,34,Taco Bell,971,Other
+Female,4,25,McDonald,972,Other
+Female,2,22,Burger King,973,Other
+Female,3,26,Taco Bell,974,Hispanic
+Male,5,39,McDonald,975,White
+Female,5,34,Burger King,976,Hispanic
+Male,4,24,Taco Bell,977,Black
+Male,2,32,McDonald,978,White
+Male,4,26,Burger King,979,Black
+Female,3,28,McDonald,980,Black
+Male,4,32,KFC,981,Other
+Male,2,35,KFC,982,Black
+Male,1,31,McDonald,983,Other
+Female,2,38,McDonald,984,Other
+Male,1,27,Taco Bell,985,Hispanic
+Male,5,28,Burger King,986,Black
+Female,4,35,McDonald,987,White
+Female,2,35,Taco Bell,988,Hispanic
+Female,2,31,McDonald,989,Other
+Female,3,36,Taco Bell,990,Hispanic
+Male,1,28,KFC,991,Other
+Female,5,32,Taco Bell,992,White
+Female,1,31,Burger King,993,Other
+Female,1,18,KFC,994,Black
+Male,1,28,KFC,995,Other
+Female,3,33,Taco Bell,996,Black
+Male,3,33,Burger King,997,White
+Female,4,25,McDonald,998,Other
+Female,4,30,McDonald,999,Black
+Female,5,32,Taco Bell,1000,White
+Female,3,31,McDonald,1001,Black
+Male,1,38,Burger King,1002,Other
+Female,1,33,KFC,1003,Black
+Female,1,27,KFC,1004,Hispanic
+Female,1,35,McDonald,1005,Hispanic
+Male,4,22,Taco Bell,1006,Other
+Male,2,25,Burger King,1007,White
+Male,2,31,Burger King,1008,Black
+Female,1,34,McDonald,1009,Black
+Female,1,33,Burger King,1010,White
+Female,4,27,Burger King,1011,Hispanic
+Female,5,29,Burger King,1012,White
+Male,2,19,Burger King,1013,Black
+Female,5,32,KFC,1014,Hispanic
+Female,3,35,Taco Bell,1015,Black
+Female,1,25,KFC,1016,White
+Female,3,35,McDonald,1017,White
+Female,5,27,Taco Bell,1018,White
+Female,2,30,McDonald,1019,Black
+Female,2,30,KFC,1020,Black
+Male,5,23,McDonald,1021,Other
+Male,3,26,McDonald,1022,Other
+Female,5,28,Taco Bell,1023,White
+Female,5,27,Taco Bell,1024,Black
+Female,1,31,Burger King,1025,Black
+Female,5,20,Burger King,1026,Black
+Male,4,32,Taco Bell,1027,Black
+Male,1,29,McDonald,1028,White
+Male,5,36,McDonald,1029,Black
+Female,1,29,McDonald,1030,Hispanic
+Female,1,27,Taco Bell,1031,Other
+Female,4,29,KFC,1032,Hispanic
+Female,5,19,Taco Bell,1033,Hispanic
+Female,4,30,Burger King,1034,Hispanic
+Male,2,21,McDonald,1035,White
+Male,5,30,Taco Bell,1036,Black
+Female,3,36,McDonald,1037,Hispanic
+Male,1,21,Taco Bell,1038,Other
+Female,5,36,Burger King,1039,Black
+Female,5,21,KFC,1040,Black
+Female,5,30,Taco Bell,1041,Black
+Female,4,26,Taco Bell,1042,Black
+Male,1,36,KFC,1043,Hispanic
+Female,5,36,Taco Bell,1044,White
+Female,1,23,Burger King,1045,Hispanic
+Male,1,32,Burger King,1046,White
+Male,3,30,McDonald,1047,Other
+Male,2,28,Taco Bell,1048,White
+Male,1,25,KFC,1049,Black
+Male,5,24,McDonald,1050,Hispanic
+Female,2,29,McDonald,1051,Black
+Female,3,23,McDonald,1052,Hispanic
+Female,1,29,McDonald,1053,Hispanic
+Female,4,28,Taco Bell,1054,Hispanic
+Male,1,31,McDonald,1055,Other
+Male,2,32,Taco Bell,1056,Other
+Female,4,24,McDonald,1057,White
+Male,2,27,Taco Bell,1058,Hispanic
+Male,1,43,Taco Bell,1059,Hispanic
+Female,4,30,Taco Bell,1060,Hispanic
+Female,2,30,Burger King,1061,Other
+Male,2,28,Burger King,1062,Hispanic
+Male,5,39,McDonald,1063,Other
+Female,5,25,Burger King,1064,White
+Female,1,27,Burger King,1065,Hispanic
+Female,2,27,McDonald,1066,Black
+Male,5,32,Burger King,1067,Hispanic
+Male,5,35,Burger King,1068,Other
+Female,1,27,McDonald,1069,Hispanic
+Male,1,28,McDonald,1070,Black
+Female,5,26,Burger King,1071,White
+Male,3,36,Burger King,1072,White
+Male,1,24,Burger King,1073,White
+Female,2,35,KFC,1074,White
+Male,2,34,Burger King,1075,Other
+Female,3,26,Taco Bell,1076,Hispanic
+Female,3,39,Burger King,1077,White
+Male,1,32,Burger King,1078,Other
+Male,1,26,KFC,1079,Black
+Male,4,27,McDonald,1080,Other
+Female,1,35,McDonald,1081,White
+Male,4,30,Taco Bell,1082,Other
+Male,2,30,Taco Bell,1083,White
+Female,2,30,McDonald,1084,Black
+Female,1,40,Burger King,1085,White
+Male,3,33,Burger King,1086,Other
+Female,1,34,KFC,1087,Other
+Female,4,38,Burger King,1088,Black
+Male,2,25,Taco Bell,1089,Black
+Female,3,31,KFC,1090,Other
+Male,1,33,Burger King,1091,Black
+Female,1,25,Taco Bell,1092,Other
+Female,2,34,Taco Bell,1093,Other
+Male,3,28,Burger King,1094,Black
+Female,5,29,KFC,1095,White
+Female,4,26,McDonald,1096,Black
+Male,3,37,Burger King,1097,White
+Female,4,29,McDonald,1098,Other
+Male,1,29,McDonald,1099,Black
+Male,4,29,Taco Bell,1100,Black
+Female,3,23,Burger King,1101,Black
+Female,2,24,McDonald,1102,Other
+Female,3,29,Taco Bell,1103,Black
+Female,3,23,Burger King,1104,Hispanic
+Female,4,30,Burger King,1105,White
+Female,3,33,McDonald,1106,Hispanic
+Male,2,31,KFC,1107,Hispanic
+Male,5,40,KFC,1108,Other
+Male,1,27,Burger King,1109,Black
+Female,1,35,Burger King,1110,Black
+Female,3,39,Taco Bell,1111,Other
+Female,4,30,McDonald,1112,Hispanic
+Female,1,32,Taco Bell,1113,White
+Male,1,29,Taco Bell,1114,Hispanic
+Male,3,29,Burger King,1115,Hispanic
+Male,2,31,McDonald,1116,Hispanic
+Female,5,36,Taco Bell,1117,Black
+Female,2,16,McDonald,1118,Black
+Male,3,30,McDonald,1119,Hispanic
+Male,3,27,Taco Bell,1120,White
+Female,2,24,McDonald,1121,Other
+Female,5,23,KFC,1122,Other
+Female,2,35,Burger King,1123,Hispanic
+Male,3,26,Taco Bell,1124,Other
+Male,4,30,Taco Bell,1125,White
+Male,4,28,McDonald,1126,Hispanic
+Female,3,25,KFC,1127,Other
+Female,5,35,KFC,1128,White
+Female,3,22,KFC,1129,Other
+Female,1,28,KFC,1130,Hispanic
+Male,4,32,McDonald,1131,Hispanic
+Male,4,23,McDonald,1132,White
+Female,1,28,Burger King,1133,White
+Female,2,32,Taco Bell,1134,White
+Female,2,26,KFC,1135,Black
+Male,2,28,Burger King,1136,Black
+Female,4,32,KFC,1137,White
+Male,1,36,McDonald,1138,White
+Female,3,23,Taco Bell,1139,Black
+Male,5,36,Burger King,1140,Other
+Female,1,31,Burger King,1141,Black
+Female,2,32,Burger King,1142,Hispanic
+Female,5,22,McDonald,1143,Black
+Male,4,25,McDonald,1144,Black
+Female,5,29,Burger King,1145,Other
+Female,4,34,KFC,1146,Black
+Female,5,24,McDonald,1147,Black
+Male,2,32,KFC,1148,Hispanic
+Female,3,33,Burger King,1149,Hispanic
+Male,4,28,Taco Bell,1150,Other
+Male,2,36,Taco Bell,1151,Hispanic
+Male,4,20,KFC,1152,White
+Female,3,26,Burger King,1153,White
+Female,5,26,McDonald,1154,White
+Male,3,36,KFC,1155,Hispanic
+Male,5,29,Burger King,1156,Other
+Female,2,33,Burger King,1157,Black
+Female,5,35,McDonald,1158,White
+Male,3,32,Taco Bell,1159,Black
+Female,4,16,KFC,1160,White
+Male,1,28,Taco Bell,1161,Black
+Male,3,30,Taco Bell,1162,Hispanic
+Female,2,31,KFC,1163,White
+Female,2,34,KFC,1164,Black
+Male,5,21,Taco Bell,1165,Hispanic
+Male,1,32,McDonald,1166,Other
+Female,5,26,Burger King,1167,Hispanic
+Female,4,25,Taco Bell,1168,Black
+Female,2,26,KFC,1169,Hispanic
+Female,4,17,KFC,1170,Other
+Female,2,41,McDonald,1171,White
+Female,3,31,KFC,1172,Other
+Male,2,27,Burger King,1173,White
+Female,1,39,Taco Bell,1174,Other
+Female,3,35,Burger King,1175,Other
+Male,2,33,KFC,1176,Black
+Female,2,37,KFC,1177,Hispanic
+Female,5,25,KFC,1178,Black
+Male,1,35,McDonald,1179,Other
+Male,2,37,Burger King,1180,Other
+Male,3,23,KFC,1181,Hispanic
+Female,4,28,KFC,1182,Hispanic
+Male,2,24,McDonald,1183,Hispanic
+Female,4,30,Taco Bell,1184,White
+Female,4,31,Taco Bell,1185,White
+Male,5,33,Burger King,1186,Other
+Female,2,28,Burger King,1187,Hispanic
+Female,5,29,McDonald,1188,Hispanic
+Male,2,29,McDonald,1189,Hispanic
+Male,4,43,KFC,1190,Black
+Female,4,34,Taco Bell,1191,Hispanic
+Female,3,29,Burger King,1192,White
+Female,3,31,McDonald,1193,White
+Female,2,34,KFC,1194,Black
+Female,2,28,KFC,1195,White
+Male,3,34,Taco Bell,1196,Black
+Male,5,27,KFC,1197,Black
+Male,4,31,McDonald,1198,White
+Male,1,31,Taco Bell,1199,White
+Female,3,20,McDonald,1200,Hispanic
+Female,4,26,McDonald,1201,Black
+Female,3,30,Taco Bell,1202,Black
+Female,3,33,McDonald,1203,Black
+Female,3,33,Taco Bell,1204,Hispanic
+Female,4,29,McDonald,1205,White
+Female,5,36,Burger King,1206,White
+Male,1,30,Taco Bell,1207,Hispanic
+Male,4,24,KFC,1208,Other
+Female,1,29,Taco Bell,1209,White
+Male,3,26,Taco Bell,1210,Other
+Male,2,27,Burger King,1211,Hispanic
+Female,4,28,Burger King,1212,Hispanic
+Male,2,32,Burger King,1213,White
+Male,1,23,McDonald,1214,Black
+Female,1,24,McDonald,1215,Black
+Male,3,30,Burger King,1216,Hispanic
+Male,5,22,KFC,1217,Hispanic
+Female,5,29,Taco Bell,1218,White
+Male,2,22,McDonald,1219,Hispanic
+Male,1,20,KFC,1220,Hispanic
+Male,4,16,KFC,1221,Black
+Male,4,36,KFC,1222,Other
+Male,2,28,Taco Bell,1223,Other
+Female,4,36,Taco Bell,1224,Hispanic
+Male,2,32,Taco Bell,1225,Hispanic
+Female,3,27,Burger King,1226,Hispanic
+Male,3,26,KFC,1227,White
+Male,4,31,Taco Bell,1228,Black
+Male,2,32,Taco Bell,1229,Black
+Female,4,25,Burger King,1230,Black
+Female,4,25,Taco Bell,1231,Hispanic
+Male,1,19,Taco Bell,1232,Hispanic
+Female,5,28,Taco Bell,1233,White
+Female,3,24,Burger King,1234,Black
+Male,1,26,McDonald,1235,White
+Female,3,28,McDonald,1236,Other
+Male,3,37,McDonald,1237,White
+Female,5,29,Burger King,1238,Other
+Male,2,24,Burger King,1239,Other
+Female,5,37,KFC,1240,White
+Male,4,36,Taco Bell,1241,Hispanic
+Male,2,29,McDonald,1242,Hispanic
+Female,3,30,KFC,1243,Other
+Male,5,33,Taco Bell,1244,Black
+Female,5,27,KFC,1245,Hispanic
+Female,4,29,KFC,1246,Black
+Male,3,24,McDonald,1247,Black
+Female,2,27,Taco Bell,1248,Hispanic
+Male,1,32,McDonald,1249,Black
+Female,2,26,Burger King,1250,Black
+Female,4,31,McDonald,1251,Black
+Male,4,29,KFC,1252,Black
+Male,2,32,McDonald,1253,Hispanic
+Female,2,29,KFC,1254,Hispanic
+Male,2,28,KFC,1255,White
+Female,5,31,Taco Bell,1256,Other
+Female,3,32,KFC,1257,White
+Male,1,29,Burger King,1258,White
+Male,1,28,Taco Bell,1259,Hispanic
+Female,4,30,KFC,1260,Black
+Female,3,29,McDonald,1261,Other
+Male,4,33,McDonald,1262,Black
+Female,4,25,Taco Bell,1263,Other
+Male,3,24,Taco Bell,1264,White
+Female,4,32,McDonald,1265,Black
+Female,5,28,McDonald,1266,Hispanic
+Male,3,39,KFC,1267,White
+Male,4,37,KFC,1268,White
+Male,4,35,KFC,1269,Other
+Male,2,30,McDonald,1270,Other
+Female,5,23,Burger King,1271,Black
+Female,2,30,KFC,1272,Hispanic
+Male,4,33,KFC,1273,Black
+Male,5,28,McDonald,1274,Hispanic
+Female,1,23,KFC,1275,Hispanic
+Male,4,35,KFC,1276,Hispanic
+Male,5,32,KFC,1277,White
+Male,2,21,McDonald,1278,Hispanic
+Male,4,31,McDonald,1279,Hispanic
+Male,4,29,McDonald,1280,White
+Male,5,34,Taco Bell,1281,Black
+Female,5,31,McDonald,1282,Other
+Male,3,25,McDonald,1283,White
+Female,5,26,Taco Bell,1284,Black
+Female,3,26,Taco Bell,1285,Black
+Female,3,34,Taco Bell,1286,Other
+Female,5,27,Taco Bell,1287,Hispanic
+Female,2,19,McDonald,1288,White
+Male,1,31,KFC,1289,White
+Male,3,35,KFC,1290,Black
+Female,2,28,McDonald,1291,Black
+Male,2,32,Burger King,1292,Other
+Female,2,35,Burger King,1293,Other
+Female,4,22,Taco Bell,1294,Hispanic
+Male,3,31,Taco Bell,1295,White
+Male,5,29,KFC,1296,Hispanic
+Male,1,31,Burger King,1297,Black
+Female,1,29,KFC,1298,Other
+Female,4,31,Taco Bell,1299,Other
+Female,5,28,Burger King,1300,Hispanic
+Female,3,25,Taco Bell,1301,Other
+Female,5,37,KFC,1302,Other
+Male,1,25,Taco Bell,1303,Black
+Male,5,30,McDonald,1304,Hispanic
+Female,3,30,Taco Bell,1305,White
+Female,2,28,KFC,1306,Other
+Female,4,30,Taco Bell,1307,Hispanic
+Male,3,36,Burger King,1308,Black
+Male,3,19,McDonald,1309,Other
+Female,3,33,McDonald,1310,Other
+Female,5,41,Taco Bell,1311,White
+Male,3,25,KFC,1312,Black
+Male,5,34,KFC,1313,White
+Female,3,25,McDonald,1314,Hispanic
+Female,1,32,McDonald,1315,Hispanic
+Male,4,21,McDonald,1316,Black
+Female,2,33,KFC,1317,Black
+Female,2,26,McDonald,1318,Other
+Female,3,31,Taco Bell,1319,Hispanic
+Female,1,17,Burger King,1320,Other
+Male,3,30,Taco Bell,1321,Other
+Female,3,20,Burger King,1322,Black
+Female,3,32,McDonald,1323,White
+Female,5,35,McDonald,1324,Hispanic
+Male,4,27,McDonald,1325,White
+Female,1,29,Burger King,1326,White
+Male,5,31,Taco Bell,1327,Black
+Female,1,30,KFC,1328,Other
+Female,5,30,KFC,1329,Black
+Female,2,31,McDonald,1330,White
+Male,4,38,Taco Bell,1331,Hispanic
+Male,4,23,Burger King,1332,Other
+Female,3,27,Taco Bell,1333,Hispanic
+Male,2,38,McDonald,1334,White
+Male,1,25,McDonald,1335,Hispanic
+Male,2,32,Burger King,1336,Hispanic
+Male,4,32,KFC,1337,Hispanic
+Male,1,35,Taco Bell,1338,Hispanic
+Male,3,35,McDonald,1339,Hispanic
+Male,5,24,Taco Bell,1340,Hispanic
+Male,4,26,Taco Bell,1341,White
+Female,2,37,McDonald,1342,Black
+Female,2,22,McDonald,1343,Other
+Female,2,35,McDonald,1344,White
+Male,3,22,McDonald,1345,Other
+Male,5,26,McDonald,1346,Hispanic
+Female,5,30,Burger King,1347,Hispanic
+Female,1,36,KFC,1348,Hispanic
+Female,2,31,Burger King,1349,White
+Male,5,28,KFC,1350,Other
+Female,5,27,KFC,1351,Other
+Male,4,29,Taco Bell,1352,Black
+Male,3,35,Taco Bell,1353,Black
+Male,2,39,Taco Bell,1354,Hispanic
+Male,2,33,KFC,1355,Other
+Female,1,20,KFC,1356,Hispanic
+Male,1,23,Burger King,1357,Other
+Female,5,36,McDonald,1358,Black
+Male,5,17,Burger King,1359,White
+Female,5,21,KFC,1360,Black
+Female,5,25,McDonald,1361,Black
+Male,3,35,KFC,1362,Black
+Female,3,37,Taco Bell,1363,Black
+Female,3,26,Taco Bell,1364,Other
+Female,3,34,Burger King,1365,Other
+Male,2,38,McDonald,1366,Hispanic
+Male,1,32,McDonald,1367,Hispanic
+Male,1,29,Burger King,1368,Black
+Male,4,27,Taco Bell,1369,Black
+Female,5,37,KFC,1370,Other
+Female,2,37,McDonald,1371,Black
+Female,4,29,Burger King,1372,Other
+Female,3,27,Taco Bell,1373,White
+Male,4,28,Taco Bell,1374,White
+Female,1,30,KFC,1375,Hispanic
+Male,5,18,Taco Bell,1376,Hispanic
+Female,1,28,Burger King,1377,Black
+Male,5,27,Burger King,1378,Black
+Female,4,29,Taco Bell,1379,Other
+Female,2,37,McDonald,1380,White
+Male,3,39,Burger King,1381,Hispanic
+Female,3,27,Taco Bell,1382,Black
+Female,3,28,McDonald,1383,Other
+Male,2,33,KFC,1384,Black
+Male,3,31,KFC,1385,Hispanic
+Female,1,24,Taco Bell,1386,White
+Male,1,18,Burger King,1387,White
+Male,2,37,McDonald,1388,Black
+Female,2,33,McDonald,1389,White
+Male,1,21,McDonald,1390,Black
+Male,1,27,McDonald,1391,Other
+Male,1,30,Taco Bell,1392,Hispanic
+Male,5,24,McDonald,1393,Hispanic
+Female,5,40,McDonald,1394,Other
+Female,3,37,McDonald,1395,Black
+Female,3,30,McDonald,1396,Other
+Female,1,28,Burger King,1397,Hispanic
+Female,4,38,McDonald,1398,Black
+Male,4,28,Burger King,1399,White
+Female,5,29,Taco Bell,1400,Hispanic
+Female,3,32,Burger King,1401,Black
+Female,5,28,McDonald,1402,Black
+Female,3,22,KFC,1403,Black
+Male,4,33,Burger King,1404,White
+Female,2,25,McDonald,1405,White
+Female,1,27,McDonald,1406,Other
+Female,1,23,KFC,1407,Black
+Male,2,32,Burger King,1408,Black
+Female,5,27,KFC,1409,Other
+Male,1,33,Taco Bell,1410,Black
+Female,3,31,Taco Bell,1411,White
+Male,2,24,Burger King,1412,Hispanic
+Male,5,33,McDonald,1413,Hispanic
+Female,2,27,Burger King,1414,Hispanic
+Male,4,25,McDonald,1415,White
+Male,1,34,Burger King,1416,Black
+Female,3,28,Burger King,1417,White
+Male,3,25,Burger King,1418,White
+Female,5,25,KFC,1419,Hispanic
+Male,1,28,Taco Bell,1420,Other
+Male,5,32,KFC,1421,White
+Female,4,36,KFC,1422,White
+Female,2,43,KFC,1423,Black
+Female,4,29,McDonald,1424,White
+Male,1,41,McDonald,1425,Black
+Female,2,29,KFC,1426,Hispanic
+Male,5,29,Burger King,1427,Other
+Female,5,35,Taco Bell,1428,Black
+Male,3,31,Burger King,1429,Black
+Female,4,31,Taco Bell,1430,Black
+Male,2,29,Burger King,1431,White
+Male,3,24,Burger King,1432,Black
+Male,5,21,KFC,1433,Hispanic
+Male,1,26,Taco Bell,1434,Black
+Female,1,29,Burger King,1435,Other
+Female,1,35,McDonald,1436,Hispanic
+Female,4,41,Taco Bell,1437,Other
+Female,5,24,Burger King,1438,White
+Female,4,23,McDonald,1439,Hispanic
+Female,5,39,Burger King,1440,Other
+Female,2,30,KFC,1441,Black
+Female,4,21,Burger King,1442,Black
+Male,1,33,McDonald,1443,Hispanic
+Male,3,30,Taco Bell,1444,Other
+Female,4,33,KFC,1445,Hispanic
+Male,3,19,Taco Bell,1446,White
+Female,5,29,McDonald,1447,Black
+Female,1,30,Burger King,1448,Hispanic
+Female,5,30,KFC,1449,Other
+Male,2,25,Burger King,1450,Hispanic
+Male,2,24,KFC,1451,Black
+Female,4,32,Burger King,1452,Hispanic
+Female,4,26,McDonald,1453,Other
+Female,2,31,Burger King,1454,Hispanic
+Female,2,34,Burger King,1455,White
+Male,5,28,Taco Bell,1456,White
+Female,5,31,KFC,1457,White
+Male,4,28,Burger King,1458,Other
+Female,5,36,KFC,1459,Other
+Female,4,24,Taco Bell,1460,White
+Female,4,33,McDonald,1461,Other
+Male,1,24,KFC,1462,Hispanic
+Male,2,31,KFC,1463,Other
+Male,3,29,Burger King,1464,Hispanic
+Male,4,32,McDonald,1465,Black
+Male,5,32,Burger King,1466,White
+Male,5,38,KFC,1467,Black
+Female,4,37,Taco Bell,1468,Other
+Female,3,18,McDonald,1469,Other
+Female,4,33,McDonald,1470,White
+Female,3,38,Taco Bell,1471,White
+Female,3,33,KFC,1472,White
+Male,2,35,McDonald,1473,Black
+Male,3,17,McDonald,1474,Other
+Female,2,33,Burger King,1475,Hispanic
+Male,4,32,Taco Bell,1476,Black
+Female,2,31,McDonald,1477,Hispanic
+Male,5,15,Burger King,1478,Hispanic
+Female,4,37,KFC,1479,White
+Female,5,35,Taco Bell,1480,Other
+Female,5,28,KFC,1481,Other
+Female,3,33,KFC,1482,Other
+Female,3,37,Burger King,1483,Black
+Male,4,20,KFC,1484,White
+Male,5,25,McDonald,1485,Black
+Female,5,27,Burger King,1486,Black
+Male,2,32,KFC,1487,Black
+Male,3,33,Burger King,1488,Hispanic
+Female,2,28,McDonald,1489,Other
+Female,3,28,McDonald,1490,White
+Female,3,37,KFC,1491,Black
+Female,4,45,KFC,1492,Hispanic
+Female,1,26,Burger King,1493,Hispanic
+Female,1,31,Burger King,1494,Hispanic
+Female,1,28,Taco Bell,1495,Other
+Female,5,29,KFC,1496,Hispanic
+Female,2,26,KFC,1497,Other
+Female,1,32,Burger King,1498,Hispanic
+Male,2,29,Taco Bell,1499,Other
+Female,5,23,KFC,1500,Other
+Male,4,33,Burger King,1501,Hispanic
+Female,2,32,Burger King,1502,Black
+Male,3,24,KFC,1503,Hispanic
+Male,3,29,Burger King,1504,Other
+Male,1,30,Burger King,1505,Black
+Male,1,28,KFC,1506,White
+Male,1,31,McDonald,1507,Hispanic
+Female,1,35,Burger King,1508,Hispanic
+Male,2,33,Taco Bell,1509,Black
+Male,5,40,Burger King,1510,Hispanic
+Female,4,22,Taco Bell,1511,White
+Female,3,38,McDonald,1512,Other
+Male,1,36,Taco Bell,1513,White
+Male,4,22,Taco Bell,1514,Other
+Female,1,40,Taco Bell,1515,White
+Male,1,20,McDonald,1516,Black
+Male,3,31,McDonald,1517,Other
+Male,1,23,Burger King,1518,Other
+Female,2,40,KFC,1519,Other
+Female,5,37,KFC,1520,White
+Male,2,40,McDonald,1521,Hispanic
+Male,3,34,McDonald,1522,Other
+Male,5,33,McDonald,1523,Hispanic
+Male,3,37,McDonald,1524,White
+Female,1,28,McDonald,1525,White
+Female,2,26,KFC,1526,Black
+Male,5,33,KFC,1527,Hispanic
+Male,2,27,Taco Bell,1528,Black
+Female,5,28,Burger King,1529,Other
+Female,5,31,KFC,1530,Black
+Female,5,26,McDonald,1531,Hispanic
+Male,5,27,McDonald,1532,White
+Female,4,27,Burger King,1533,Other
+Female,4,31,KFC,1534,Black
+Female,4,31,McDonald,1535,Other
+Female,3,25,KFC,1536,White
+Male,4,34,Taco Bell,1537,White
+Female,2,32,KFC,1538,White
+Female,4,22,KFC,1539,Other
+Female,5,25,Taco Bell,1540,White
+Male,1,23,McDonald,1541,Other
+Female,2,28,McDonald,1542,Other
+Female,5,18,KFC,1543,White
+Female,3,28,Taco Bell,1544,Other
+Female,3,31,Taco Bell,1545,Other
+Male,5,43,Burger King,1546,Other
+Female,1,30,KFC,1547,Black
+Male,5,28,KFC,1548,Other
+Female,4,23,McDonald,1549,Black
+Female,4,31,McDonald,1550,Hispanic
+Female,5,33,Burger King,1551,Black
+Male,5,35,McDonald,1552,Hispanic
+Female,4,32,McDonald,1553,Hispanic
+Female,5,36,KFC,1554,Black
+Female,5,28,Burger King,1555,Black
+Female,3,27,Taco Bell,1556,Hispanic
+Female,1,37,Burger King,1557,Hispanic
+Female,3,38,KFC,1558,Hispanic
+Male,5,23,Burger King,1559,Hispanic
+Female,4,24,Burger King,1560,Other
+Female,5,27,Burger King,1561,Hispanic
+Female,1,39,KFC,1562,White
+Female,2,18,KFC,1563,Other
+Female,4,29,McDonald,1564,Hispanic
+Female,5,29,Taco Bell,1565,Hispanic
+Male,2,26,McDonald,1566,Other
+Female,4,40,Burger King,1567,Other
+Male,2,32,McDonald,1568,Black
+Male,2,35,Burger King,1569,White
+Female,1,28,KFC,1570,Black
+Male,5,20,KFC,1571,Hispanic
+Male,3,33,McDonald,1572,Other
+Female,4,25,Taco Bell,1573,Hispanic
+Male,1,26,KFC,1574,Other
+Male,4,31,Burger King,1575,Hispanic
+Female,2,29,KFC,1576,White
+Female,2,24,McDonald,1577,Other
+Female,5,26,McDonald,1578,Other
+Male,5,28,KFC,1579,Hispanic
+Male,5,33,Taco Bell,1580,Other
+Male,2,33,KFC,1581,Other
+Female,2,26,KFC,1582,Other
+Male,4,31,KFC,1583,Hispanic
+Male,4,31,Taco Bell,1584,Hispanic
+Male,2,31,McDonald,1585,Black
+Female,3,32,McDonald,1586,Hispanic
+Male,3,29,McDonald,1587,Other
+Female,2,26,Taco Bell,1588,White
+Male,1,32,KFC,1589,Hispanic
+Male,1,27,Burger King,1590,White
+Male,4,31,Taco Bell,1591,White
+Female,4,27,Taco Bell,1592,White
+Male,1,35,McDonald,1593,Hispanic
+Male,4,34,KFC,1594,Hispanic
+Female,4,40,KFC,1595,Other
+Female,2,33,McDonald,1596,Black
+Male,2,31,KFC,1597,Hispanic
+Male,2,32,Taco Bell,1598,Hispanic
+Female,2,21,KFC,1599,Hispanic
+Female,1,29,Taco Bell,1600,White
+Male,5,28,Burger King,1601,Other
+Female,2,27,McDonald,1602,Other
+Female,1,28,McDonald,1603,Hispanic
+Female,4,28,McDonald,1604,Other
+Female,1,38,KFC,1605,Other
+Male,2,39,KFC,1606,Other
+Male,2,38,McDonald,1607,Black
+Male,3,29,Burger King,1608,Black
+Male,4,34,McDonald,1609,Other
+Male,1,28,McDonald,1610,Hispanic
+Female,1,30,Burger King,1611,Hispanic
+Female,1,27,Taco Bell,1612,White
+Female,4,32,KFC,1613,White
+Female,3,30,McDonald,1614,Hispanic
+Female,2,22,KFC,1615,White
+Female,2,26,McDonald,1616,Black
+Male,1,22,Burger King,1617,Black
+Male,5,30,McDonald,1618,Other
+Female,1,32,McDonald,1619,Hispanic
+Female,4,31,KFC,1620,Other
+Female,3,28,Burger King,1621,Other
+Male,4,27,McDonald,1622,Other
+Female,3,27,Taco Bell,1623,Other
+Female,1,27,Burger King,1624,Other
+Male,2,37,Taco Bell,1625,Black
+Male,1,26,Taco Bell,1626,Black
+Male,4,33,KFC,1627,Hispanic
+Female,5,26,Burger King,1628,Black
+Female,4,33,Taco Bell,1629,Other
+Male,2,25,KFC,1630,Other
+Male,4,28,McDonald,1631,Black
+Male,2,33,McDonald,1632,Black
+Male,4,35,McDonald,1633,White
+Male,5,29,Taco Bell,1634,Hispanic
+Male,1,34,KFC,1635,White
+Male,4,20,KFC,1636,White
+Female,3,24,KFC,1637,Hispanic
+Female,2,36,KFC,1638,White
+Male,2,31,Taco Bell,1639,White
+Male,5,31,Burger King,1640,Black
+Female,2,33,Burger King,1641,Black
+Male,1,31,Taco Bell,1642,White
+Female,1,32,McDonald,1643,Black
+Male,4,33,Taco Bell,1644,Black
+Female,5,36,KFC,1645,Hispanic
+Male,5,26,McDonald,1646,White
+Female,4,23,McDonald,1647,Hispanic
+Female,5,27,KFC,1648,Other
+Female,3,31,Burger King,1649,Black
+Male,4,29,Taco Bell,1650,Hispanic
+Female,3,29,KFC,1651,White
+Female,5,30,Taco Bell,1652,Hispanic
+Male,5,28,KFC,1653,Black
+Female,2,31,Taco Bell,1654,White
+Female,5,28,Taco Bell,1655,Hispanic
+Female,4,27,Burger King,1656,White
+Female,1,23,KFC,1657,White
+Female,3,33,Burger King,1658,Other
+Male,4,33,Taco Bell,1659,White
+Male,3,34,Taco Bell,1660,Black
+Male,2,38,Taco Bell,1661,Other
+Male,3,30,KFC,1662,White
+Male,2,28,Taco Bell,1663,White
+Female,2,21,Burger King,1664,Other
+Male,2,30,Burger King,1665,White
+Male,2,25,Burger King,1666,Black
+Male,3,40,McDonald,1667,White
+Female,5,25,KFC,1668,Black
+Male,4,24,Burger King,1669,Other
+Male,4,32,McDonald,1670,Black
+Male,4,37,Burger King,1671,Black
+Female,1,26,Taco Bell,1672,White
+Male,1,34,McDonald,1673,Other
+Female,4,35,Burger King,1674,Other
+Male,1,36,KFC,1675,Black
+Male,2,35,KFC,1676,Black
+Male,3,32,KFC,1677,Other
+Male,3,30,Taco Bell,1678,White
+Female,3,29,Burger King,1679,Other
+Male,2,27,Burger King,1680,Other
+Female,2,32,McDonald,1681,Hispanic
+Male,4,34,McDonald,1682,Hispanic
+Female,5,32,KFC,1683,White
+Male,3,28,Burger King,1684,Black
+Female,2,28,KFC,1685,White
+Female,1,28,Taco Bell,1686,White
+Male,2,31,KFC,1687,Black
+Female,5,32,Burger King,1688,Hispanic
+Male,1,38,McDonald,1689,White
+Female,4,28,Burger King,1690,White
+Male,4,33,KFC,1691,White
+Male,2,28,KFC,1692,White
+Male,4,36,McDonald,1693,Other
+Male,5,30,Burger King,1694,Hispanic
+Female,5,30,McDonald,1695,Black
+Male,3,33,KFC,1696,Black
+Female,1,25,KFC,1697,Black
+Female,4,26,McDonald,1698,Black
+Female,3,36,KFC,1699,Other
+Male,1,32,Burger King,1700,Hispanic
+Male,2,28,Taco Bell,1701,Black
+Male,3,17,McDonald,1702,Hispanic
+Female,4,39,Burger King,1703,Black
+Male,2,36,Taco Bell,1704,Hispanic
+Male,5,28,Burger King,1705,Other
+Male,2,27,Taco Bell,1706,White
+Female,3,30,Burger King,1707,Black
+Male,3,29,KFC,1708,Hispanic
+Female,5,39,McDonald,1709,Black
+Male,2,26,KFC,1710,Other
+Male,5,18,Burger King,1711,Black
+Male,5,33,Burger King,1712,White
+Female,5,31,Taco Bell,1713,White
+Male,4,32,Taco Bell,1714,White
+Male,1,37,KFC,1715,Other
+Male,1,28,McDonald,1716,White
+Female,2,36,McDonald,1717,White
+Female,4,30,KFC,1718,Hispanic
+Male,4,32,Taco Bell,1719,Hispanic
+Male,4,27,McDonald,1720,Other
+Female,5,31,KFC,1721,Hispanic
+Female,3,33,KFC,1722,White
+Male,1,29,KFC,1723,Hispanic
+Female,1,40,Burger King,1724,Hispanic
+Male,1,20,KFC,1725,Black
+Female,3,30,Burger King,1726,Black
+Female,4,34,Burger King,1727,White
+Female,3,31,Burger King,1728,Hispanic
+Male,1,35,Burger King,1729,Hispanic
+Male,5,27,KFC,1730,White
+Male,3,34,Taco Bell,1731,White
+Female,3,24,KFC,1732,Black
+Male,4,28,Burger King,1733,Other
+Male,4,25,KFC,1734,Black
+Male,4,33,Taco Bell,1735,White
+Male,4,26,Taco Bell,1736,Black
+Female,1,34,Burger King,1737,Black
+Female,4,28,Burger King,1738,Hispanic
+Male,3,33,Taco Bell,1739,Black
+Female,5,27,KFC,1740,Other
+Female,5,32,Taco Bell,1741,Hispanic
+Female,1,26,Burger King,1742,Other
+Female,4,29,KFC,1743,White
+Male,2,25,Taco Bell,1744,Other
+Female,5,28,Taco Bell,1745,Black
+Male,2,36,Burger King,1746,Other
+Female,3,26,Taco Bell,1747,Other
+Male,1,24,KFC,1748,Other
+Female,5,26,Taco Bell,1749,Other
+Male,5,20,KFC,1750,Black
+Male,4,31,McDonald,1751,White
+Female,2,29,McDonald,1752,White
+Male,1,36,Taco Bell,1753,Hispanic
+Female,1,23,KFC,1754,Hispanic
+Female,1,28,McDonald,1755,Black
+Male,1,28,McDonald,1756,Hispanic
+Female,5,27,Burger King,1757,Hispanic
+Male,5,28,Taco Bell,1758,Black
+Male,2,21,Taco Bell,1759,White
+Male,1,29,McDonald,1760,Black
+Male,1,29,Taco Bell,1761,White
+Male,4,29,Taco Bell,1762,Other
+Female,1,34,McDonald,1763,Hispanic
+Female,2,34,McDonald,1764,White
+Male,5,35,KFC,1765,Hispanic
+Male,2,25,McDonald,1766,Hispanic
+Male,2,24,McDonald,1767,Hispanic
+Female,1,34,KFC,1768,Other
+Male,3,21,Burger King,1769,Other
+Male,1,30,KFC,1770,Black
+Male,5,32,Burger King,1771,Other
+Female,5,21,Burger King,1772,White
+Female,2,29,Burger King,1773,Black
+Female,1,40,Taco Bell,1774,White
+Male,4,29,KFC,1775,Other
+Male,3,32,McDonald,1776,Hispanic
+Male,5,33,KFC,1777,Hispanic
+Male,2,29,McDonald,1778,Hispanic
+Female,2,34,McDonald,1779,White
+Male,2,30,McDonald,1780,Hispanic
+Female,1,29,KFC,1781,Other
+Male,1,27,KFC,1782,Black
+Female,3,29,McDonald,1783,Hispanic
+Female,3,31,KFC,1784,Black
+Female,3,32,Burger King,1785,Black
+Male,4,32,KFC,1786,Other
+Male,1,28,Taco Bell,1787,Other
+Female,2,40,KFC,1788,Black
+Male,2,33,KFC,1789,White
+Female,1,39,Burger King,1790,White
+Male,4,24,Burger King,1791,Black
+Male,3,33,KFC,1792,Black
+Female,3,26,Taco Bell,1793,Other
+Female,3,35,KFC,1794,Other
+Female,1,33,McDonald,1795,Hispanic
+Female,3,34,Taco Bell,1796,White
+Female,3,26,Taco Bell,1797,Black
+Male,3,26,KFC,1798,Hispanic
+Male,4,31,Burger King,1799,Hispanic
+Male,3,32,Taco Bell,1800,White
+Female,5,31,KFC,1801,White
+Female,1,36,Taco Bell,1802,Hispanic
+Female,4,34,KFC,1803,Black
+Female,1,33,KFC,1804,Other
+Female,1,32,McDonald,1805,White
+Female,1,32,Taco Bell,1806,Black
+Female,4,29,McDonald,1807,White
+Female,4,33,KFC,1808,Other
+Male,4,33,Burger King,1809,Hispanic
+Female,1,34,KFC,1810,White
+Female,4,30,McDonald,1811,Other
+Female,1,30,Burger King,1812,Hispanic
+Male,3,43,KFC,1813,Hispanic
+Male,3,40,KFC,1814,Black
+Female,3,31,McDonald,1815,Other
+Female,1,34,Burger King,1816,Other
+Male,1,40,McDonald,1817,Black
+Male,5,35,Taco Bell,1818,White
+Female,3,24,Burger King,1819,Black
+Female,3,38,McDonald,1820,White
+Female,4,35,McDonald,1821,Other
+Female,3,31,Taco Bell,1822,Hispanic
+Female,3,22,Burger King,1823,Other
+Female,2,37,Burger King,1824,Other
+Female,2,26,KFC,1825,Other
+Female,3,27,KFC,1826,Hispanic
+Female,3,26,McDonald,1827,White
+Male,2,25,Burger King,1828,Other
+Male,4,32,McDonald,1829,Black
+Male,4,28,Burger King,1830,White
+Male,2,34,McDonald,1831,Other
+Female,3,25,Taco Bell,1832,Other
+Female,5,30,Burger King,1833,Other
+Female,4,33,Burger King,1834,Hispanic
+Male,5,36,Taco Bell,1835,Other
+Male,4,30,KFC,1836,White
+Female,1,29,McDonald,1837,Black
+Female,2,28,KFC,1838,Black
+Male,3,29,Taco Bell,1839,White
+Female,1,26,McDonald,1840,Black
+Male,1,26,McDonald,1841,Hispanic
+Female,5,31,McDonald,1842,Other
+Male,4,27,Burger King,1843,Other
+Male,5,26,Burger King,1844,Black
+Male,4,27,Burger King,1845,Hispanic
+Male,1,31,KFC,1846,Black
+Female,3,28,Burger King,1847,Black
+Female,1,23,Taco Bell,1848,Other
+Female,5,22,McDonald,1849,White
+Female,4,30,McDonald,1850,Hispanic
+Female,1,33,Taco Bell,1851,Black
+Male,3,37,KFC,1852,Black
+Female,4,33,KFC,1853,Hispanic
+Female,5,24,Taco Bell,1854,Hispanic
+Male,1,35,McDonald,1855,White
+Male,4,27,Taco Bell,1856,Hispanic
+Male,2,26,Burger King,1857,White
+Male,3,27,McDonald,1858,Other
+Female,3,31,KFC,1859,White
+Female,3,40,McDonald,1860,Black
+Male,5,21,McDonald,1861,Hispanic
+Male,5,34,Taco Bell,1862,Black
+Female,3,28,KFC,1863,White
+Female,3,28,Taco Bell,1864,Hispanic
+Male,2,24,Taco Bell,1865,Hispanic
+Male,4,34,Burger King,1866,Hispanic
+Female,1,29,KFC,1867,White
+Male,1,34,Burger King,1868,Black
+Male,4,39,Taco Bell,1869,White
+Male,3,31,McDonald,1870,Other
+Male,4,32,KFC,1871,Hispanic
+Male,2,38,Burger King,1872,Hispanic
+Male,2,32,Taco Bell,1873,Black
+Female,2,25,Burger King,1874,Black
+Female,5,35,KFC,1875,White
+Male,3,27,Taco Bell,1876,Black
+Female,1,32,Burger King,1877,Other
+Female,4,30,Burger King,1878,Black
+Female,1,33,Taco Bell,1879,White
+Female,4,33,Burger King,1880,Hispanic
+Male,3,32,Taco Bell,1881,Black
+Male,5,31,Burger King,1882,Black
+Male,5,36,KFC,1883,Black
+Male,1,29,McDonald,1884,Hispanic
+Male,5,26,Burger King,1885,Black
+Female,3,29,Burger King,1886,Other
+Female,5,28,Taco Bell,1887,Black
+Male,5,20,Taco Bell,1888,Black
+Female,4,26,McDonald,1889,Other
+Male,2,32,Taco Bell,1890,Hispanic
+Female,2,32,McDonald,1891,Other
+Male,5,29,McDonald,1892,White
+Male,5,37,Burger King,1893,Other
+Male,5,35,Burger King,1894,White
+Female,4,26,Burger King,1895,Black
+Male,4,30,Taco Bell,1896,Other
+Female,5,29,Taco Bell,1897,White
+Female,5,36,Taco Bell,1898,White
+Female,3,35,McDonald,1899,White
+Male,3,27,McDonald,1900,Hispanic
+Male,3,27,Burger King,1901,White
+Male,1,29,Taco Bell,1902,Black
+Male,4,30,KFC,1903,White
+Female,1,34,Taco Bell,1904,White
+Male,5,35,KFC,1905,Hispanic
+Female,5,33,Burger King,1906,Black
+Male,4,29,Taco Bell,1907,Other
+Female,5,28,KFC,1908,Hispanic
+Female,3,32,KFC,1909,Black
+Female,3,21,Taco Bell,1910,Other
+Male,1,37,Burger King,1911,Hispanic
+Male,5,30,Burger King,1912,White
+Female,4,29,Burger King,1913,Black
+Male,4,31,Burger King,1914,Other
+Female,1,26,Taco Bell,1915,Hispanic
+Female,2,30,Burger King,1916,Other
+Male,5,35,McDonald,1917,Other
+Male,5,26,Burger King,1918,Hispanic
+Female,3,30,Burger King,1919,White
+Male,2,29,KFC,1920,Other
+Female,3,26,Taco Bell,1921,Black
+Male,3,24,Burger King,1922,White
+Female,5,27,McDonald,1923,Hispanic
+Male,5,32,KFC,1924,White
+Male,4,34,KFC,1925,Hispanic
+Female,2,29,Taco Bell,1926,Other
+Male,3,21,Taco Bell,1927,Black
+Male,5,30,Taco Bell,1928,Other
+Female,1,29,McDonald,1929,White
+Male,5,20,McDonald,1930,Hispanic
+Female,1,33,Burger King,1931,Other
+Female,3,26,McDonald,1932,Hispanic
+Male,2,33,KFC,1933,Other
+Female,1,34,Burger King,1934,Black
+Female,3,27,McDonald,1935,White
+Female,4,30,KFC,1936,Hispanic
+Male,4,34,Taco Bell,1937,Other
+Male,2,27,Burger King,1938,White
+Female,1,25,McDonald,1939,Hispanic
+Female,1,31,Taco Bell,1940,Hispanic
+Female,1,42,Burger King,1941,Hispanic
+Female,1,40,Burger King,1942,Black
+Female,5,32,Burger King,1943,Black
+Male,2,24,Burger King,1944,Black
+Female,2,39,Burger King,1945,Other
+Female,2,31,McDonald,1946,Hispanic
+Male,2,26,Burger King,1947,Other
+Female,4,33,Burger King,1948,Hispanic
+Female,1,24,Taco Bell,1949,Other
+Male,3,34,KFC,1950,White
+Female,4,32,Taco Bell,1951,Other
+Female,3,26,McDonald,1952,White
+Male,3,35,KFC,1953,Other
+Female,3,31,Taco Bell,1954,White
+Male,3,28,Taco Bell,1955,Black
+Male,4,21,Taco Bell,1956,Hispanic
+Female,4,42,McDonald,1957,Hispanic
+Female,3,33,KFC,1958,White
+Male,3,36,McDonald,1959,Other
+Male,1,28,Burger King,1960,White
+Male,2,37,Taco Bell,1961,White
+Female,2,25,Burger King,1962,Hispanic
+Female,3,35,McDonald,1963,Black
+Female,2,32,KFC,1964,White
+Male,5,35,Taco Bell,1965,White
+Female,3,39,KFC,1966,Other
+Male,3,33,KFC,1967,Black
+Female,2,27,Burger King,1968,Black
+Male,1,20,Burger King,1969,Other
+Male,2,26,Taco Bell,1970,White
+Female,4,28,McDonald,1971,Other
+Male,3,31,Taco Bell,1972,Hispanic
+Female,2,29,Taco Bell,1973,Other
+Male,1,32,McDonald,1974,Black
+Male,1,36,McDonald,1975,Hispanic
+Male,5,32,Burger King,1976,Other
+Male,1,33,McDonald,1977,Hispanic
+Female,1,37,KFC,1978,Other
+Female,4,33,Taco Bell,1979,Other
+Female,5,23,Taco Bell,1980,White
+Female,5,28,Burger King,1981,White
+Male,1,29,Burger King,1982,Hispanic
+Female,1,30,Burger King,1983,Hispanic
+Female,3,29,Burger King,1984,Hispanic
+Female,4,33,KFC,1985,Black
+Male,1,33,McDonald,1986,White
+Female,3,33,Taco Bell,1987,Hispanic
+Female,1,27,Burger King,1988,White
+Female,4,37,Taco Bell,1989,Black

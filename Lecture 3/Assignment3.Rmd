@@ -1,0 +1,46 @@
+---
+title: "Module 2 - Working with Categorical Data 1"
+author: "Rushabh Barbhaya"
+date: "November 21, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r dataset, echo=FALSE, include=FALSE}
+library(knitr)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(magrittr)
+library(kableExtra)
+data = read.csv("data.csv")
+```
+
+
+# Analysis
+
+1.  The restaurants were displayed in the order they were because *it's arranged in decending order of count*
+2.  The percentage column was added to the table because *to see percent of whole*
+
+# Tables and Figures
+
+Find the total number of cases: `r dim(data)[1]`
+
+For each restaurant, find the total number of customers.
+
+```{r tables, echo=FALSE}
+df = data.frame(table(data$restaurant))
+df = df[order(-df$Freq),]
+df2 = as.numeric(format(round((df$Freq*100/nrow(data)),1), nsmall = 2))
+df2 = cbind(df, df2)
+names(df2)[1] <- "Restaurant"
+names(df2)[2] <- "Count"
+names(df2)[3] <- "Percentage"
+row.names(df2) = NULL
+kbl(df2, caption = "Restaurant customers") %>% 
+  kable_styling()
+```
+
