@@ -1,0 +1,54 @@
+---
+title: "Module 3 - Fitting Discrete Distributions 2"
+author: "Rushabh Barbhaya"
+date: "December 12, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Analysis
+```{r include=FALSE, echo=FALSE}
+library(dplyr)
+library(tidyr)
+library(kableExtra)
+library(vcd)
+
+data = read.csv("data2.csv")
+
+data$rSum = rowSums(data[,0:8] == 1)+rowSums(data[,0:8] == 2)+rowSums(data[,0:8] == 3)
+tab = data %>%
+  group_by(rSum) %>% 
+  summarise(Successes = n()) %>% 
+  spread(key = rSum, value = Successes) %>% 
+  mutate(" " = "Successes", .before = 1) %>% 
+  mutate("8" = 1-1)
+
+dice_fit = goodfit(data$rSum, type = "binomial", par = list(size=8))
+```
+Perform a goodness-of-fit test.
+
+1. The test’s statistic has a value of $χ^2$ = *6.897925* \n
+2. The test has a p-value of *0.3303904* \n
+3. The test provides evidence that *test result is not significant* because *p-value is not less than 0.05* \n
+
+# Tables and Figures
+
+Find the maximum dice size: `r max(data)`
+
+Find the group size: `r length(unique(data$rSum))`
+
+Considering a roll 1/2/3 to be a success, find the number of successes per group
+
+```{r echo=FALSE}
+kbl(tab, caption = "Number of successes when rolling a 12 sided dice.") %>%
+  kable_styling()
+
+plot(dice_fit, scale = "raw", type = "standing", shade = T, main = "Number of successes when rolling a 12 sided dice." ,xlab = "Number of Successes", ylab = "Counts")
+```
+```{r echo=FALSE, include=FALSE}
+summary(dice_fit)
+```
+
