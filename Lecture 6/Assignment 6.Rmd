@@ -1,0 +1,46 @@
+---
+title: "Module 4 - Contingency Tables 1"
+author: "Rushabh Barbhaya"
+date: "December 19, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data, echo=FALSE, include=FALSE}
+library(dplyr)
+library(knitr)
+library(kableExtra)
+
+data <- read.csv("data.csv")
+data = data.frame(data)
+data$new[data$Hired == "Y"] <- "Hired"
+data$new[data$Hired == "N"] <- "Not Hired"
+specify_decimal <- function(x, k) trimws(format(round(x, k), nsmall=k))
+```
+
+# Analysis
+1. Table 1 has a χ2 value of **0.7419** and **Hired/Not Hired** not significant.
+2. The Odds Ratio for Table 1 tells us that **Females have < 50% odds of getting hired as compared to Males**.
+
+# Tables and Figures
+```{r table, echo=FALSE, include=FALSE}
+tabledata = data %>%  
+  group_by(Gender) %>% 
+  summarise("Hired" = sum(new == "Hired"), 
+            "Not Hired" = sum(new == "Not Hired"),
+            "Total" = n())
+tabledata = tabledata %>% 
+  mutate("% Hired" = as.numeric(specify_decimal((tabledata$Hired/tabledata$Total)*100, 2)),
+         "Odds(Hired)" = as.numeric(specify_decimal((tabledata$Hired/tabledata$`Not Hired`), 2))) %>%
+  arrange(desc(tabledata$Total))
+
+tabledata
+```
+
+```{r output, echo=FALSE}
+kbl(tabledata, caption = "Company wide hiring") %>% 
+  kable_styling()
+```

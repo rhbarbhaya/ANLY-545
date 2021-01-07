@@ -1,0 +1,55 @@
+---
+title: "Concept Presentation"
+author: '{{Gundeep Singh, Siddhant Burande, Rushabh Barbhaya}}'
+date: "`r Sys.Date()`"
+editor_options: 
+  chunk_output_type: console
+output:
+  slidy_presentation: default
+---
+
+# Data-1
+
+* What are the requirements?
+   + Data should be in csv format
+   + The testing is focused on categorical data, if any other data is present, if possible needs to be changed to categorical, if not could be ignored from analysis deems unnecessary for analysis
+   + Data needs to checked for missing values, if missing values are found for any variable, complete observation should be removed
+   + After the check, new clean dataset needs to be created and used for analysis
+   
+
+# Data-2
+
+* Where can the data be found?
+   + We got our hands on the data from kaggle.com. The website provides vast variety of data sets. 
+   + The link for the data set: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
+
+# Data-3  
+* Why is this the right data?
+   + We are aiming for interesting data set which provides 
+      * Plethora of opportunities for research
+      * Research escalation and expansion capability
+   + This data set presents the following challenges:
+      * Size-1,048,575 rows with 22 variables, which gives us plentiful observations to work through, and with these many observations possibility of near accurate results
+      * Enough variables with levels to design interesting hypothesis
+      * With decent levels for variables presents us the opportunity to provide insightful observations for future study
+
+# Hypothesis
+
+The dataset has recorded weather and road surface conditions, at the site of the car accident. The aim of this analysis is to prove that weather conditions, road surface, or year have no effect on the accidents.
+
+* Year Make
+  + $H_0$: Avg fatal accidents by 1998 and 1999 make vehicle are same 
+  + $H_a$: Avg fatal accidents by 1998 and 1999 make vehicle are different
+* Weather Conditions
+  + $H_0$: The weather conditions have no effect on accidents
+  + $H_a$: Weather conditions have some effect on accidents
+  
+* Road Surface Conditions
+  + $H_0$: The road surface conditions have no effect on accidents
+  + $H_a$: Road surface conditions have some effect on accidents
+  
+* Year
+  + $H_0$: Year has no effect on accidents
+  + $H_a$: Year has some effect on accidents
+
+ 

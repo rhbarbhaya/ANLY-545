@@ -1,0 +1,63 @@
+---
+title: "Module 4 - Contingency Tables 2"
+author: "Rushabh Barbhaya"
+date: "December 19, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r dataIn, include=FALSE, echo=FALSE}
+library(dplyr)
+library(knitr)
+library(tidyr)
+library(tidyverse)
+library(tibble)
+library(vctrs)
+library(kableExtra)
+
+data <- read.csv("data.csv")
+data = data.frame(data)
+data$new[data$Hired == "Y"] <- "Hired"
+data$new[data$Hired == "N"] <- "Not Hired"
+specify_decimal <- function(x, k) trimws(format(round(x, k), nsmall=k))
+
+tabledata = data %>%  
+  group_by(Gender) %>% 
+  summarise("Hired" = sum(new == "Hired"), 
+            "Not Hired" = sum(new == "Not Hired"),
+            "Total" = n())
+
+tabledata = tabledata %>%
+  mutate("% Hired" = as.numeric(specify_decimal((tabledata$Hired/tabledata$Total)*100, 2)),
+         "Odds(Hired)" = as.numeric(specify_decimal((tabledata$Hired/tabledata$`Not Hired`), 2))) %>%
+  arrange(desc(tabledata$Total))
+
+table2 = data %>%
+  group_by(Division, Gender) %>% 
+  summarise("Hired" = sum(new == "Hired"), 
+            "Not Hired" = sum(new == "Not Hired"),
+            "Total" = n())
+
+table2 = table2 %>% 
+  tibble::add_column("% Hired" = as.numeric(specify_decimal((table2$Hired/table2$Total)*100,2)),
+             "Odds(Hired)" = as.numeric(specify_decimal((table2$Hired/table2$`Not Hired`),2))) %>% 
+  arrange(Division, desc(Total))
+```
+
+# Analysis
+1. Table 2 has a $\chi^2$ value of **17.29** and **is not** significant.
+2. The Odds Ratio for Table 2 tells us that **Department A has the most difference in chance of getting hired. Although, not significant enough**.
+3. The Odds Ratios for the two tables seem to be at odds. This can be explained as **aggregation error**.
+
+# Tables and Figures
+```{r output, echo=FALSE}
+kbl(tabledata, caption = "Company wide hiring") %>% 
+  kable_styling()
+
+kbl(table2, caption = "Division based hiring") %>% 
+  collapse_rows(columns = 1, valign = "middle") %>% 
+  kable_styling()
+```

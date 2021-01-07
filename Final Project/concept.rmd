@@ -1,0 +1,94 @@
+---
+title: "Concept Presentation - Motor Vehicle Collision Report"
+author: 'Gundeep Singh, Siddhant Burande, and Rushabh Barbhaya'
+date: "`r Sys.Date()`"
+editor_options: 
+  chunk_output_type: console
+output:
+  slidy_presentation: default
+---
+
+# Project Overview
+
+* Accidents are major cause of death worldwide
+![car crash](https://www.bcmlawyers.com/wp-content/uploads/2018/05/images_blog_car-accident-845x321.jpg)
+
+# Project Overview
+
+* In 2019, in US about 38800 people died due to car crashes (nsc.org)
+![Deaths by motor](https://aaafoundation.org/wp-content/uploads/2017/11/aaafts_2014_fig2-e1511821349299.png)
+
+# Project Overview
+
+* Different factors impact the number of accidents (Canada Data set)
+  + Road Conditions 
+  + Weather Conditions
+  + Year of Car
+![Road condtions](https://www.comedytrafficschool.com/wp-content/uploads/2015/02/road-conditions.jpg)
+
+# Project Overview
+* Factors Like Road Conditions or Weather Conditions impact the traffic and driving habits which is what makes this research more important
+![Hazardous conditions](https://www.co.sauk.wi.us/sites/default/files/styles/gallery500/public/imageattachments/emergencymanagement/page/1282/weather.jpg?itok=p_Km5sgY)
+
+# Hypothesis
+
+The dataset has recorded weather and road surface conditions, at the site of the car accident. The aim of this analysis is to prove that weather conditions, road surface, or year have no effect on the accidents.
+
+* Weather Conditions
+  + $H_0$: The weather conditions have no effect on accidents
+  + $H_a$: Weather conditions have some effect on accidents
+  
+* Road Surface Conditions
+  + $H_0$: The road surface conditions have no effect on accidents
+  + $H_a$: Road surface conditions have some effect on accidents
+  
+* Year Make
+  + $H_0$: Avg fatal accidents by 1998 and 1999 make vehicle are same 
+  + $H_a$: Avg fatal accidents by 1998 and 1999 make vehicle are different
+
+# Data-1
+
+* What are the requirements?
+   + Data should be in csv format
+   + The testing is focused on categorical data, if any other data is present, if possible needs to be changed to categorical, if not could be ignored from analysis deems unnecessary for analysis
+   + Data needs to checked for missing values, if missing values are found for any variable, complete observation should be removed
+   + After the check, new clean dataset needs to be created and used for analysis
+   
+
+# Data-2
+
+* Where can the data be found?
+   + We got our hands on the data from [kaggle.com](https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014). The website provides vast variety of data sets. 
+
+# Data-3  
+* Why is this the right data?
+   + We are aiming for interesting data set which provides 
+      * Plethora of opportunities for research
+      * Research escalation and expansion capability
+   + This data set presents the following challenges:
+      * Size-1,048,575 rows with 22 variables, which gives us plentiful observations to work through, and with these many observations possibility of near accurate results
+      * Enough variables with levels to design interesting hypothesis
+      * With decent levels for variables presents us the opportunity to provide insightful observations for future study
+
+* What are the requirements?
+   + Data needs to checked for missing values
+   + After the check, final dataset needs to be created
+
+# Analytic Scope
+
+* Data check (Outliers, Additivity, Normality, Linearity, Homogeneity/Homoscedasticity)
+* Hypothesis testing
+* Mosaic Displays
+
+# Pitfalls
+
+* Data is old, last record is from 2014
+* Data might only show the reported cases, undocumented cases will be missing
+
+# References
+
+* [kaggle.com](https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=NCDB_1999_to_2014.csv)
+* [Statistics Canada](https://www.statcan.gc.ca/eng/start)
+* [Transport Canada](https://tc.canada.ca/en)
+* [National Collision Database Online](https://wwwapps2.tc.gc.ca/Saf-Sec-Sur/7/NCDB-BNDC/p.aspx?c=100-0-0&l=en)
+* [Canadian Motor Vehicle Collison Report 2014 - PDF](https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=cmvtcs2014_eng.pdf)

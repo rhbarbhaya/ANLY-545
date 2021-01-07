@@ -1,0 +1,62 @@
+---
+title: "Concept Presentation"
+author: '{{your name(s) here}}'
+date: "`r Sys.Date()`"
+editor_options: 
+  chunk_output_type: console
+output:
+  slidy_presentation: default
+---
+
+# Instructions
+
+The purpose of the project is to learn how to formulate a problem statement or research question, determine how to best find a solution to the stated problem or answer to the research question, do that and then develop a final written report and presentation.
+The project is team-based.
+Individual grades will include points for how well they contributed to the team effort.
+
+The course project has two deliverables:
+
+1.	Concept presentation
+2.	Final presentation
+
+The **Concept presentation** deliverable is described below.  
+Each case study presents a situation, challenge or problem.
+The primary objective of the course project is to determine how analytics and in particular categorical data analytics could or can help the respective company or society address the situation or overcome the challenge or problem it is facing.
+To do this each team must review the case study, formulate a problem statement or research question as appropriate, and then identify the appropriate analytics methods or techniques completing analyses where possible.  
+
+# Concept Presentation
+
+The Concept Presentation is intended to introduce a situation, problem or challenge.
+It should include all relevant information for that introduction.
+The proposal should try to answer the following questions:
+
+1. Introduce a problem that has meaning.
+2. Design and execute insightful analyses
+   * Form a testable hypothesis
+   * Determine requirements for data
+3. Identify and assess the  objectives, scope, and methodological limitations for domain-specific problems.
+   * Assess the utility of available data
+   * Which algorithms/techniques/models do you plan to use/develop?
+     Why? 
+
+# Project Overview (5 pages)
+
+* What problem is at hand?
+* The issue(s) or challenge(s) that identified the research question or problem.
+
+# Hypothesis (1 page)
+
+* Formally state $H_0$ and $H_1$
+
+# Data (3 pages)
+
+* What are the requirements?
+* Where can the data be found?
+* Why is this the right data?
+
+# Analytic Scope (2 pages)
+
+* What techniques do you plan on using?
+* Why are those techniques useful?
+* What pitfalls do you expect to find?
+ 
