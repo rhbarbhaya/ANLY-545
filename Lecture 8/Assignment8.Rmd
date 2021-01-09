@@ -1,0 +1,34 @@
+---
+title: "Module 5 - Mosaic Displays 1"
+author: "Rushabh Barbhaya"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r import, warning=FALSE, message=FALSE, echo=FALSE}
+library(kableExtra)
+library(dplyr)
+library(grid)
+library(vcd)
+library(data.table)
+library(MASS)
+
+data <- read.csv('data.csv', sep = ',', stringsAsFactors = T)
+data = table(data)
+placebo = margin.table(data, 4:5)
+statsisisis = loglm(~ Treatment + Improved, data = data)
+```
+
+
+# Analysis
+1. There [is not] a statistical relationship between Treatment and Improved ($\chi^2$ = $`r statsisisis$pearson`$ p $0.8799514$).
+
+# Tables and Figures
+```{r diag, echo=FALSE}
+mosaic(placebo, shade = T, labeling = labeling_values)
+```
+
