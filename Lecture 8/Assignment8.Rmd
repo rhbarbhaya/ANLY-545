@@ -18,14 +18,16 @@ library(data.table)
 library(MASS)
 
 data <- read.csv('data.csv', sep = ',', stringsAsFactors = T)
+levels(data$Improved)[levels(data$Improved)=="N"] ="No"
+levels(data$Improved)[levels(data$Improved)=="Y"] ="Yes"
 data = table(data)
 placebo = margin.table(data, 4:5)
-statsisisis = loglm(~ Treatment + Improved, data = data)
+statsisisis = loglm(~ Treatment + Improved, data = placebo)
 ```
 
 
 # Analysis
-1. There [is not] a statistical relationship between Treatment and Improved ($\chi^2$ = $`r statsisisis$pearson`$ p $0.8799514$).
+1. There [is] a statistical relationship between Treatment and Improved ($\chi^2$ = $`r statsisisis$pearson` \ p\ < 0.05 \ (5.814293e-06$)).
 
 # Tables and Figures
 ```{r diag, echo=FALSE}
