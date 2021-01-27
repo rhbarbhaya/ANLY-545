@@ -1,0 +1,62 @@
+---
+title: "Module 6 - Logistic Regression 1"
+author: "Rushabh Barbhaya"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r dataprep, include=FALSE, echo=FALSE, warning=FALSE}
+library(ggplot2)
+library(lmtest)
+
+data = read.csv('data.csv')
+names(data)[3] = 'Height'
+names(data)[4] = 'Weight'
+data$Improved = as.numeric(data$Improved)
+fit1 = glm(Improved ~ Height, data = data, family = 'binomial')
+fit2 = glm(Improved ~ Weight, data = data, family = 'binomial')
+sum_fit_1 = summary(fit1)
+sum_fit_2 = summary(fit2)
+
+gg = ggplot(data, aes(x = Height, y = Improved)) + 
+  theme_bw() +
+  geom_point(position = position_jitter(height = 0.02, width = 0)) +
+  stat_smooth(
+    method = 'glm',
+    method.args = list(family = 'binomial'),
+    alpha = 0.1,
+    fill = 'blue',
+    size = 2.5,
+    fullrange = T
+  )
+
+gg2 = ggplot(data, aes(x = Weight, y = Improved)) + 
+  theme_bw() +
+  geom_point(position = position_jitter(height = 0.02, width = 0)) +
+  stat_smooth(
+    method = 'glm',
+    method.args = list(family = 'binomial'),
+    alpha = 0.1,
+    fill = 'blue',
+    size = 2.5,
+    fullrange = T
+  )
+```
+
+
+# Analysis
+1. `Height` [is not] a significant predictor of `Improved` ($\beta =$ `r exp(coef(fit1))['Height']`, p = `r sum_fit_1$coefficients[2,4]`).
+2. For each cm in `Height`, the Odds of the subject’s symptoms [improve] by `r round((exp(coef(fit1))['Height']-1)*100,2)` %.
+3. `Weight` [is] a significant predictor of `Improved` ($\beta =$ `r exp(coef(fit2))['Weight']`, p = `r sum_fit_2$coefficients[2,4]`).
+4. For each kg in `Weight`, the Odds of the subject’s symptoms [improve] by `r round((exp(coef(fit2))['Weight']-1)*100,2)` %.
+
+# Tables and Figures
+```{r graphs, echo=FALSE, message=FALSE}
+gg
+gg2
+```
+
